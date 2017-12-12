@@ -134,87 +134,144 @@ In this section we provide brief descriptions and links to various tools that ar
 
 # CONTRIBUTORS AND ACKNOWLEDGEMENTS
 
-##Contributors
+## Contributors
 
 ### Co-investigators
 
 Liliana Bounegru, University of Groningen, University of Ghent 
+
 Jonathan Gray, King’s College London
+
 Tommaso Venturini, Univ Lyon, Inria, ENS de Lyon, CNRS, UCB 
+
 Michele Mauri, DensityDesign
 
-###Research and Editorial Assistant
+### Research and Editorial Assistant
 
 Daniela Demarchi, University of Amsterdam
 
-###Editorial Design
+### Editorial Design
 
 Ángeles Briones, DensityDesign Research Lab
+
 Carlo De Gaetano, DensityDesign Research Lab
 
-####DensityDesign Researchers
+#### DensityDesign Researchers
 
 Agata Brilli, Politecnico di Milano
+
 Ángeles Briones, Politecnico di Milano
+
 Carlo De Gaetano, Politecnico di Milano
+
 Gabriele Colombo, Politecnico di Milano
+
 Mariasilvia Poltronieri, Politecnico di Milano
+
 Michele Invernizzi, Politecnico di Milano
+
 Michele Mauri, Politecnico di Milano
+
 Paolo Ciuccarelli, Politecnico di Milano
+
 Tommaso Elli, Politecnico di Milano
 
-####Facilitators
+#### Facilitators
 
 Alex Gekker, University of Amsterdam
+
 Anders Munk, Aalborg University
+
 Bilel Benbouzid, University of Paris-Est Marne-la-Vallée
+
 Erik Borra, University of Amsterdam
+
 Esther Weltevrede, University of Amsterdam
+
 Jonathan Gray, King's College London
+
 Jorn Preuss, University of Siegen
+
 Liliana Bounegru, University of Ghent, University of Groningen
+
 Marc Tuters, University of Amsterdam
+
 Mathieu Jacomy, Sciences Po
+
 Natalia Sánchez-Querubín, University of Amsterdam
+
 Nicolas Baya-Laffite, University of Lausanne
+
 Paolo Ciuccarelli, Politecnico di Milano
+
 Richard Rogers, University of Amsterdam
+
 Sabine Niederer, Hogeschool van Amsterdam
+
 Tommaso Venturini, Univ Lyon, Inria, ENS de Lyon, CNRS, UCB 
 
-####Analysts
+#### Analysts
 
 Anders Grundtvig, Aalborg University 
+
 Anna Keuchenius, University of Amsterdam
+
 Antonio Martella, University of Amsterdam
+
 Asbjørn Fleinert Mathiasen, Aalborg University 
+
 Asger Gehrt Olesen, Aalborg University 
+
 Carlo Santagiustina, University of Amsterdam
+
 Charlotte Leclercq, University of Amsterdam
+
 Daniel Bach, Aalborg University
+
 Daniela Demarchi, University of Amsterdam
+
 Ecesu Erol, University of Amsterdam
+
 Emil Jørgensen, Aalborg University
+
 Joep Voorn, University of Amsterdam 
+
 Jörn Preuss, University of Siegen 
+
 Kaspar Beelen, University of Amsterdam
+
 Katerina Gladkova, University of Amsterdam
+
 Lieke Kersten, University of Amsterdam
+
 Lisanne Blomberg, University of Amsterdam
+
 Manon van Hoek, University of Amsterdam
+
 Maria Hayat, University of Amsterdam
+
 Marlene Scherf, University of Amsterdam
+
 Michel Blonk, University of Amsterdam
+
 Mintsje de Witte, University of Amsterdam
+
 Mischa Benjamin Szpirt, Aalborg University
+
 Pieter Vliegenthart, University of Amsterdam
+
 Rina Tsubaki, European Journalism Centre
+
 Ronja Ingeborg Lofstad, Aalborg University
+
 Sal Hagen, University of Amsterdam
+
 Stefani Mans, University of Amsterdam
+
 Stefanie Voortman, University of Amsterdam
+
 Talia Castellanos Usigli, University of Amsterdam
+
 Zoë Versteegen, University of Amsterdam
 
 ## Contributors by chapter
@@ -224,85 +281,119 @@ Zoë Versteegen, University of Amsterdam
 #### Facilitators:
 
 Liliana Bounegru, University of Groningen, University of Ghent
+
 Jonathan Gray, King’s College London
+
 Natalia Sánchez-Querubín, University of Amsterdam
+
 Erik Borra, University of Amsterdam
+
 Esther Weltevrede, University of Amsterdam
 
 #### Analysts:
 
 Lisanne Blomberg, University of Amsterdam
+
 Talía Castellanos, University of Amsterdam
+
 Tommaso Elli, DensityDesign Research Lab
+
 Mintsje de Witte, University of Amsterdam
+
 Stefanie Voortman, University of Amsterdam
+
 Stefani Mans, University of Amsterdam
+
 Antonio Martella, University of Amsterdam 
+
 Rina Tsubaki, European Journalism Centre
+
 Manon van Hoek, University of Amsterdam
+
 Zoë Versteegen, University of Amsterdam
+
 Joep Voorn, University of Amsterdam
 
-###Chapter 2. TRACING THE CIRCULATION OF FAKE NEWS ON THE WEB
+### Chapter 2. TRACING THE CIRCULATION OF FAKE NEWS ON THE WEB
 
-####Facilitators:
+#### Facilitators:
 
 Mathieu Jacomy, Sciences Po
+
 Anders Kristian Munk, Aalborg University
+
 Tommaso Venturini, Univ Lyon, Inria, ENS de Lyon, CNRS, UCB
 
-####Analysts:
+#### Analysts:
 
 Agata Brilli, DensityDesign Research Lab
+
 Anders Grundtvig, Aalborg University
+
 Daniela Demarchi, University of Amsterdam
+
 Ronja Lofstad, Aalborg University
 
-###Chapter 3. USING TRACKER SIGNATURES TO MAP THE TECHNO-COMMERCIAL UNDERPINNINGS OF FAKE NEWS SITES
+### Chapter 3. USING TRACKER SIGNATURES TO MAP THE TECHNO-COMMERCIAL UNDERPINNINGS OF FAKE NEWS SITES
 
-####Facilitators:
+#### Facilitators:
 
 Liliana Bounegru, University of Groningen, University of Ghent
+
 Richard Rogers, University of Amsterdam
 
-####Analysts:
+#### Analysts:
 
 Michele Invernizzi, DensityDesign Research Lab
+
 Mischa Szpirt, Aalborg University
 
-###Chapter 4. HOW TO STUDY POLITICAL MEMES ON FACEBOOK
+### Chapter 4. HOW TO STUDY POLITICAL MEMES ON FACEBOOK
 
-####Facilitators:
+#### Facilitators:
 
 Marc Tuters, University of Amsterdam
+
 Nicolas Baya-Laffite, University of Lausanne
+
 Bilel Benbouzid, University of Paris-Est Marne-la-Vallée
 
-####Analysts: 
+#### Analysts: 
 
 Daniel Bach, Aalborg University
+
 Carlo De Gaetano, DensityDesign Research Lab
+
 Sal Hagen, University of Amsterdam
+
 Emil Jørgensen, Aalborg University
 
-###Chapter 5. MAPPING TROLL-LIKE PRACTICES ON TWITTER
+### Chapter 5. MAPPING TROLL-LIKE PRACTICES ON TWITTER
 
-####Facilitators:
+#### Facilitators:
 
 Sabine Niederer, Hogeschool van Amsterdam
+
 Jörn Preuß, University of Siegen
+
 Erik Borra, University of Amsterdam
+
 Esther Weltevrede, University of Amsterdam
 
-####Analysts:
+#### Analysts:
 
 Ángeles Briones, DensityDesign Research Lab
+
 Michel Blonk, University of Amsterdam
+
 Lieke Kersten, University of Amsterdam
+
 Carlo Santagiustina, University of Amsterdam
+
 Marlene Scherf, University of Amsterdam
+
 Pieter Vliegenthart, University of Amsterdam
 
-##Other acknowledgements
+## Other acknowledgements
 
 We would also like to register our gratitude to the following people who provided invaluable input, feedback, advice and support at various stages: Claire Wardle and Jenni Sargent at First Draft; Ida Eklund-Lindwall at East Stratcom Task Force; Jayson Harsin, The American University of Paris (AUP); Craig Silverman and Lam Thuy Vo at BuzzFeed News; friends and colleagues at Le Monde, NRC, the New York Times and other organisations with whom we corresponded with about the guide. We also benefited from discussions with participants at public talks, workshops and events including the International Journalism Festival 2017 in Perugia; "Fake News, Algorithmic Accountability and the Role of Data Journalism in the Post-Truth Era" at the Centre for Research in the Arts, Social Sciences and Humanities (CRASSH), University of Cambridge; “Data Publics” at Lancaster University; “Politics, Fake News and the Post-Truth Era” at the University of Bath; "Les fausses nouvelles : le nouveau visage d’un vieux problème" at the Montréal University; “Data Storytelling: Engaging Visual Narratives” at Data for Culture conference, Katowice Miasto Ogrodów; the “Social Life of Fake News Online” at King’s College London and “Social Media and Democracy: New Challenges for Political Communication Research” at Lund University and the University of Copenhagen.
