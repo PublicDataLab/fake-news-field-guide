@@ -1,11 +1,11 @@
-# A field guide to "Fake News"
-Here you can find all the files needed to build the book.
+# A field guide to "Fake News" and Other Information Disorders
+This repository contains all the files and documentation necessary to reuse, remix and translate the field guide. 
 
 We are still defining the license for the different parts of the book (images, texts, and so on).
 
 ## What is inside
 
-The repo is structured in three main folders:
+The repository is structured in three main folders:
 
 * **Assets** contains all the images, such as visualizations, protocols, and so on. They are saved in `Adobe Illustrator CC 2017`, and they are not compatible with previous versions.
 * **Layout** contains all the InDesign files needed to build the book. They are saved in `InDesing CC 2017`, and are not compatible with previous versions. It also contains all the needed fonts.
@@ -19,7 +19,7 @@ It is basically a text file with few charachters that define the appaerence of t
 
 You can modify it using any text editor, however we strongly reccomand to use Typora (https://typora.io/) wich allows you to see the results of your edits.
 
-## Conventions used in the mardown
+## Conventions used in the markdown
 
 (still to be updated)
 
