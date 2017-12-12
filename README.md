@@ -1,4 +1,4 @@
-# A field guide to "Fake News" and Other Information Disorders
+# A Field Guide to "Fake News" and Other Information Disorders
 This repository contains all the files and documentation necessary to reuse, remix and translate the field guide. 
 
 We are still defining the license for the different parts of the book (images, texts, and so on).
