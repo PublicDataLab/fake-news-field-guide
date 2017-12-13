@@ -33,6 +33,6 @@ You can modify it using any text editor, however we strongly reccomand to use Ty
 * 'Before starting', 'Serving suggestions' and step titles are in H3 (`###`)
 * Visualizations titles are in H4 (`####`)
 * Bold (`**`) is used to put enphasis on part of the texts.
-* Italic (`*`) are used to highlight book names, facebook pages names, and relevant concepts.
-* Code + Bold (``**`) is used to mark tools part of the tools glossary.
-* Code + Italic (``*`) is used to mark concepts part of the concepts glossary.
+* Italic (`*`) is used to highlight publication names, names of Facebook pages, and relevant concepts.
+* Code + Bold (``**`) is used to indicate tools that are part of the Tools Glossary.
+* Code + Italic (``*`) is used to indicate concepts that are part of the Concepts Glossary.
