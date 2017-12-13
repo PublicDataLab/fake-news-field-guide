@@ -26,7 +26,7 @@ For this recipe you will need to choose a fake news story whose circulation you 
 
 Successful fake news stories always appear on several web pages. In the first step of this recipe, you will identify and collect information about these occurrences.
 
-* Identify the occurrences of your story by querying one or more search engines (we used **<u>Google Web Search</u>**). Since fake news stories evolve while circulating, consider keywords that may capture different variants of the story.
+* Identify the occurrences of your story by querying one or more search engines (we used **`Google Web Search`**). Since fake news stories evolve while circulating, consider keywords that may capture different variants of the story.
 * Rely on search engines to rank results by relevance and concentrate on the first results (under the working assumption that they are the ones that circulated the most).
 * To avoid "filter bubbles" and personalised results, consider using a dedicated research browser. [1] 
 * Be aware that search engines may give more visibility to debunkers than to original sources – and be careful not to overestimate the circulation of debunkers based on this. Also bear in mind that with this approach you see the phenomena “through the eyes” of the search engine that you selected – which will become a part of your story or research.
@@ -40,8 +40,8 @@ Fake news is supported or opposed through a network of references: websites that
 
 * Record all sources cited in the occurrences of your story. For each, note down if the source is cited as evidence or counter-evidence and if it is cited through a hyperlink (e.g. http://snopes.com), a textual reference (e.g. “the website WTOE 5 News”) or copying and pasting its content. 
 * Make sure you visit not only all the results of your initial search, but also all the sources cited by those results.
-* Extract the networks of occurrences and references (you can use **<u>Table2Net</u>**).
-* Visualise the network (using **<u>Gephi</u>**, for instance), applying a force-directed layout; sizing the nodes according to the number of citations they receive; and colouring the nodes according to how they report the story (advocating or debunking).
+* Extract the networks of occurrences and references (you can use **`Table2Net`**).
+* Visualise the network (using **`Gephi`**, for instance), applying a force-directed layout; sizing the nodes according to the number of citations they receive; and colouring the nodes according to how they report the story (advocating or debunking).
 
 #### Visualisation 2.1b: How do the occurrences of the “Pope Endorses Trump” story cite each other?
 
@@ -51,7 +51,7 @@ Fake news is supported or opposed through a network of references: websites that
 
 The network extracted in the previous step can help you understand not only who cited whom, but also how and in which direction your fake news story travelled. To reveal the circulation use the dates that you collected in the first step of this recipe.
 
-* Chronologically order the network of occurrences extracted in the previous step. You can use different visual styles to represent the different kinds of citations that you have identified. We did this using a custom script of **<u>Graph Recipes</u>**.
+* Chronologically order the network of occurrences extracted in the previous step. You can use different visual styles to represent the different kinds of citations that you have identified. We did this using a custom script of **`Graph Recipes`**.
 
 #### Visualisation 2.1c:  What is the life of the “Pope Endorses Trump” story according to pages in search engine results?
 
@@ -67,15 +67,15 @@ This recipe may be used to repurpose data obtained through search engine results
 
 This recipe enables a scaling up of the approach presented in the previous recipe, but requires a bit more technical knowledge, as well as some bigger datasets. In particular, you will need to have access to:
 
-* A web archive (we used **<u>Radarly</u>** by Linkfluence). 
-* A list of all the possible web sources in which your chosen fake news story may have appeared (we used the list curated by **<u>Le Monde Décodex</u>**).
+* A web archive (we used **`Radarly`** by Linkfluence). 
+* A list of all the possible web sources in which your chosen fake news story may have appeared (we used the list curated by **`Le Monde Décodex`**).
 
 ### Step 2.2a: Define a base map of news providers
 
 Identify (or compile) a list of all the possible Web sources in which you think your fake news item might have appeared (try to be as exhaustive as possible). You can use one of the many lists of fake news websites maintained by debunking initiatives and combine it with a list of mainstream media outlets.
 
-* Identify how the sources in your list are associated with each other through *<u>web crawling</u>* and hyperlink analysis. We used **<u>Hyphe</u>** for this.
-* Visualise the resulting network and apply a force-directed layout algorithm to identify clusters of sources. You can use **<u>Gephi</u>** for this task.
+* Identify how the sources in your list are associated with each other through *`web crawling`* and hyperlink analysis. We used **`Hyphe`** for this.
+* Visualise the resulting network and apply a force-directed layout algorithm to identify clusters of sources. You can use **`Gephi`** for this task.
 * Manually highlight and name the clusters.
 
 #### Visualisation 2.2a: What are the main spheres in the French media system?
@@ -88,8 +88,8 @@ In this step we will explore how fake news stories are associated with different
 
 * Create a query that identifies the fake news story that you want to trace. Use keywords specifically associated with your story and the stop-words to exclude "false positives".
 * Identify the occurrences of your story, running your query on the archive that you have chosen to use. For each of the results, collect the full text and the date of publication.
-* Detect, in the occurrences of the story, mentions of the sources of your base map. Search for for the URLs as well as for the names of your sources (e.g. sputniknews.com, Sputnik). In our example we used a custom script for **<u>CSV Rinse Repeat</u>**. 
-* Project the occurrences of your story onto your base map, by connecting each of them to the sources that they mention. While keeping the source-nodes fixed, apply a force directed spatialisation algorithm (you can do this using **<u>Gephi</u>**) to move the nodes representing the fake story occurrences closer to clusters of the base map that they cite the most.
+* Detect, in the occurrences of the story, mentions of the sources of your base map. Search for for the URLs as well as for the names of your sources (e.g. sputniknews.com, Sputnik). In our example we used a custom script for **`CSV Rinse Repeat`**. 
+* Project the occurrences of your story onto your base map, by connecting each of them to the sources that they mention. While keeping the source-nodes fixed, apply a force directed spatialisation algorithm (you can do this using **`Gephi`**) to move the nodes representing the fake story occurrences closer to clusters of the base map that they cite the most.
 
 #### Visualisation 2.2b: Which are the sources cited in the occurrences of the fake news story?
 
@@ -101,7 +101,7 @@ In this step, you will reveal how the reference patterns identified in the previ
 
 * Slice your network of occurrences and references by month, by week or by day, according to the speed of circulation of your story. In this example we grouped news by month and then zoomed in on a four day window to explore the most important period of circulation.
 * While keeping the source base map stable, visualise the different temporal slices of fake news story occurrences.
-* In order to make the changes and patterns more legible, you can represent the fake story occurrences not as single nodes, but through a density heatmap (the example has been produced using a custom script in **<u>Graph Recipes</u>**).
+* In order to make the changes and patterns more legible, you can represent the fake story occurrences not as single nodes, but through a density heatmap (the example has been produced using a custom script in **`Graph Recipes`**).
 
 #### Visualisation 2.2c: How many occurrences of the fake news story are published in each period and what sources do they cite?
 

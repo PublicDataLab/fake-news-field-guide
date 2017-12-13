@@ -20,15 +20,15 @@ Many websites use “trackers” – small bits of embedded code – in order to
 
 ## Before starting
 
-For this recipe you will need two lists of URLs: one list of fake news URLs and one list of mainstream media URLs. How these lists are obtained is a crucial part of the research process. You can either draw on existing lists, or create your own (e.g. by compiling a selection, triangulating from other sources, or obtaining from different platforms or media sources). The starting point that you choose will affect how to read and what you can do with the results. To illustrate this recipe, we start with a selection of fake news pages obtained from a list created by *<u>BuzzFeed News</u>* (ordered by most engaged with content according to the **<u>BuzzSumo</u>** tool), as well as a list of mainstream media web pages obtained by triangulating lists from <u>*BuzzFeed News*</u> and *<u>Alexa</u>*.
+For this recipe you will need two lists of URLs: one list of fake news URLs and one list of mainstream media URLs. How these lists are obtained is a crucial part of the research process. You can either draw on existing lists, or create your own (e.g. by compiling a selection, triangulating from other sources, or obtaining from different platforms or media sources). The starting point that you choose will affect how to read and what you can do with the results. To illustrate this recipe, we start with a selection of fake news pages obtained from a list created by *`BuzzFeed News`* (ordered by most engaged with content according to the **`BuzzSumo`** tool), as well as a list of mainstream media web pages obtained by triangulating lists from `*BuzzFeed News*` and *`Alexa`*.
 
 ### Step 3.1a: Calculate tracker usage per site type
 
-From the *<u>source code</u>* of web pages it is often possible to see which third-party tracking services are used.
+From the *`source code`* of web pages it is often possible to see which third-party tracking services are used.
 
-* Collect data about trackers associated with the web pages on each list. You may use the **<u>DMI Tracker Tracker</u>** tool to collect this information.
+* Collect data about trackers associated with the web pages on each list. You may use the **`DMI Tracker Tracker`** tool to collect this information.
 * Count the usage of each tracker in fake news websites and in mainstream news websites. 
-* You may use a *<u>scatter plot</u>* to visualise the resulting data. Each circle represents one tracker coloured by category. On the horizontal axis, you can show, for example, the distribution of trackers usage by mainstream media and fake news websites. On the vertical axis, you can indicate the overall usage of the tracker. We used the **<u>RAWGraphs</u>** tool to generate this visualisation.
+* You may use a *`scatter plot`* to visualise the resulting data. Each circle represents one tracker coloured by category. On the horizontal axis, you can show, for example, the distribution of trackers usage by mainstream media and fake news websites. On the vertical axis, you can indicate the overall usage of the tracker. We used the **`RAWGraphs`** tool to generate this visualisation.
 
 #### Visualisation 3.1a: Do mainstream media and fake news websites share the same tracker ecologies?
 
@@ -42,14 +42,14 @@ This recipe can be used to profile the tracking practices associated with differ
 
 ### Before starting
 
-For this recipe you will need two lists of URLs: one list of fake news URLs and one list of mainstream media URLs. How these lists are obtained is a crucial part of the research process. You can either draw on existing lists, or create your own (e.g. by compiling a selection, triangulating from other sources, or obtaining from different platforms or media sources). The starting point that you choose will affect how to read and what you can do with the results. To illustrate this recipe, we start with a selection of fake news pages obtained from a list created by *<u>BuzzFeed News</u>* (ordered by most engaged with content according to the **<u>BuzzSumo</u>** tool), as well as a list of mainstream media web pages obtained by triangulating lists from <u>*BuzzFeed News*</u> and *<u>Alexa</u>*.
+For this recipe you will need two lists of URLs: one list of fake news URLs and one list of mainstream media URLs. How these lists are obtained is a crucial part of the research process. You can either draw on existing lists, or create your own (e.g. by compiling a selection, triangulating from other sources, or obtaining from different platforms or media sources). The starting point that you choose will affect how to read and what you can do with the results. To illustrate this recipe, we start with a selection of fake news pages obtained from a list created by *`BuzzFeed News`* (ordered by most engaged with content according to the **`BuzzSumo`** tool), as well as a list of mainstream media web pages obtained by triangulating lists from `*BuzzFeed News*` and *`Alexa`*.
 
 ### Step 3.2a: Graph relations between pages and trackers
 
 In order to explore how different URLs share the same patterns of tracker usage we can create a network graph to highlight associations between web pages to their corresponding trackers. 
 
-* Extract lists of trackers associated with the initial lists of fake news and mainstream media pages. You may use the **<u>DMI Tracker Tracker</u>** tool to collect this information.
-* Create a network in order to show the tracker usage patterns of the different web pages. We used **<u>Gephi</u>** in order to visually explore the network using a *<u>force directed network</u>* layout to help read the data.
+* Extract lists of trackers associated with the initial lists of fake news and mainstream media pages. You may use the **`DMI Tracker Tracker`** tool to collect this information.
+* Create a network in order to show the tracker usage patterns of the different web pages. We used **`Gephi`** in order to visually explore the network using a *`force directed network`* layout to help read the data.
 * You can annotate the network graph in order to highlight the clusters of URLs (e.g. fake news clusters, or mainstream media clusters).
 
 #### Visualisation 3.2a: How do fake news sites and mainstream media cluster according their tracker usage?
@@ -64,14 +64,14 @@ This recipe can be used to explore how a set of web pages can be grouped based o
 
 ### Before starting
 
-For this recipe you will need the *<u>source code</u>* of the same web page (or set of web pages) at two different moments in time. You can obtain saved copies of the same page over time (e.g. through manually or automatically saving the source code yourself) or you can use public web archiving projects such as the Internet Archive’s **<u>Wayback Machine</u>**.
+For this recipe you will need the *`source code`* of the same web page (or set of web pages) at two different moments in time. You can obtain saved copies of the same page over time (e.g. through manually or automatically saving the source code yourself) or you can use public web archiving projects such as the Internet Archive’s **`Wayback Machine`**.
 
 ### Step 3.3a: Graph relations between pages and trackers
 
 This recipe can be used to identify which trackers were being used by a given web page at different moments in time. It might be useful to chart changes in tracking practices – for example by examining the impact and responses to events like Google and Facebook’s bans of fake news providers from their ads programs in November 2016.
 
-* Obtain archived copies of a webpage. You may use the **<u>Wayback Machine</u>** to see how a given page changed over time.
-* Identify associated trackers with the current and previous version of the page. You may use the **<u>DMI Tracker Tracker</u>** tool to collect such information.
+* Obtain archived copies of a webpage. You may use the **`Wayback Machine`** to see how a given page changed over time.
+* Identify associated trackers with the current and previous version of the page. You may use the **`DMI Tracker Tracker`** tool to collect such information.
 * Identify the trackers which are only present on the first date, the ones that which are only present on the second date and the ones that are shared across both dates.
 * You can group trackers into three lists, colouring them accordingly.
 
@@ -87,20 +87,20 @@ Given debates and proposals about stopping the ad revenue of fake news, this rec
 
 ### Before starting
 
-Before you start you will need to compile or identify seed lists of fake news and other misleading information websites. We illustrate this recipe by examining which websites use the same **<u>Google Analytics IDs</u>** as a list of websites from the EU Disinformation Review.
+Before you start you will need to compile or identify seed lists of fake news and other misleading information websites. We illustrate this recipe by examining which websites use the same **`Google Analytics IDs`** as a list of websites from the EU Disinformation Review.
 
 ### Step 3.4a: Identify websites which share tracker IDs with a seed list of pages or sites
 
 This recipe can be used to identify which other websites share the same tracker IDs as web pages on a given list.
 
-* Extract the Google Analytics ID for each URL in your starting list. You can do this manually (e.g. by looking in the *<u>source code</u>* for a string in the form “UA-xxxxxxx”) or automatically through *<u>web scraping</u>* or other tools (in this example we wrote a custom script in order to extract this information from the metadata of the website).
-* Obtain a list of pages associated with the same ID. We used the *<u>API</u>* of **<u>spyonweb.com</u>** to get this information.
+* Extract the Google Analytics ID for each URL in your starting list. You can do this manually (e.g. by looking in the *`source code`* for a string in the form “UA-xxxxxxx”) or automatically through *`web scraping`* or other tools (in this example we wrote a custom script in order to extract this information from the metadata of the website).
+* Obtain a list of pages associated with the same ID. We used the *`API`* of **`spyonweb.com`** to get this information.
 * Take a screenshot of each web page. We used a script to automate the process of obtaining screenshots, in order to visually compare the different websites to identify different kinds of media groups.
 * Place together screenshots of pages with the same ID to spot differences and similarities between websites across and within groups.
 
 #### Visualisation 3.4a: What media group strategies can be detected through shared Google Analytics IDs?
 
-**A selection of websites which share the same Google Analytics IDs, based on seed list from EU Disinformation Review.** This illustrates the diversity of online settings where claims labelled as Russian disinformation are shared – from large media groups such as *Russia Today*, to themed clusters (e.g. military or mysticism), and geographical clusters (e.g. Canadian). One can also identify distinctive visual styles and possible shared **<u>CMS</u>** features amongst different websites in these clusters, which may be used as the basis for further investigations into the media, publication and communication strategies of websites associated with misleading information online.
+**A selection of websites which share the same Google Analytics IDs, based on seed list from EU Disinformation Review.** This illustrates the diversity of online settings where claims labelled as Russian disinformation are shared – from large media groups such as *Russia Today*, to themed clusters (e.g. military or mysticism), and geographical clusters (e.g. Canadian). One can also identify distinctive visual styles and possible shared **`CMS`** features amongst different websites in these clusters, which may be used as the basis for further investigations into the media, publication and communication strategies of websites associated with misleading information online.
 
 ## Recipe 3.5: Do trackers associated with hyper-partisan, and misleading information sites vary across language spheres?
 
@@ -110,8 +110,8 @@ For this recipe, you will need lists of fake news, hyper-partisan or misleading 
 
 ### Step 3.5a: Identify trackers per language sphere
 
-* Extract trackers associated with lists of the web pages for each language sphere. We did this using the **<u>DMI Tracker Tracker</u>** tool.
-* Identify the trackers which are shared across and which are unique to different languages spheres within the dataset. We did this using the **<u>DMI Triangulation</u>** tool.
+* Extract trackers associated with lists of the web pages for each language sphere. We did this using the **`DMI Tracker Tracker`** tool.
+* Identify the trackers which are shared across and which are unique to different languages spheres within the dataset. We did this using the **`DMI Triangulation`** tool.
 * You can illustrate the results using the visual metaphor of magnets. Each of the three languages are represented on the corner of a triangle. The trackers are distributed in the triangle according to their usage: if a tracker is used by all three languages it will appear in the middle, if it is used by two languages the tracker will be placed on the edge between the two and so on.
 
 #### Visualisation 3.5a: Do misleading information and hyper-partisan websites in different language spheres have distinct tracker ecologies?

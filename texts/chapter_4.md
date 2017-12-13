@@ -26,24 +26,24 @@ To investigate who engages with memes around a political issue of interest on Fa
 
 To trace the network of affinities around a Facebook page we followed the “likes” from our page to other pages (to be distinguished from the "likes" received from users).
 
-* A Facebook crawler may be used to extract the “likes” network around a page. We used  **<u>Netvizz</u>**’s “page like network” module to “create a network of pages connected through the likes between them.” [1]
+* A Facebook crawler may be used to extract the “likes” network around a page. We used  **`Netvizz`**’s “page like network” module to “create a network of pages connected through the likes between them.” [1]
 * We set the crawler to a depth of two to extract the pages liked by our seed page and those liked by them. We thus obtained a directed network file where nodes are pages and edges represent acts of liking. 
-* You may use a network analysis tool such as **<u>Gephi</u>** to examine the graph of interconnected Facebook pages. A force-directed layout algorithm (such as ForceAtlas2) can help you visualise the shape of the network and explore the interconnected space of memetic activity.
+* You may use a network analysis tool such as **`Gephi`** to examine the graph of interconnected Facebook pages. A force-directed layout algorithm (such as ForceAtlas2) can help you visualise the shape of the network and explore the interconnected space of memetic activity.
 
 > [1] See Netvizz, Facebook application, version: 1.3, 2017, at: https://apps.facebook.com/netvizz/ 
 
 ### Step 4.1b: Profile the issues and themes that animate the memetic space 
 
-This step consists of qualitative and quantitative analysis of the composition and arrangement of the network of Facebook pages obtained in the previous step. The configuration of the *<u>network graph</u>* may be qualitatively and quantitatively analysed to identify prominent clusters and nodes. This step may include:
+This step consists of qualitative and quantitative analysis of the composition and arrangement of the network of Facebook pages obtained in the previous step. The configuration of the *`network graph`* may be qualitatively and quantitatively analysed to identify prominent clusters and nodes. This step may include:
 
- - Quantitatively, by:
+Quantitatively, by:
 
 - Identifying which pages are most popular in the network by using a graph metric such as indegree, i.e. the count of the likes received from other pages in the network. 
 - Identifying the pages most active in liking other pages by using a graph metric such as outdegree, i.e. the count of likes given to other pages in the network.
 - Identifying which pages bridge or connect different clusters in the network by using a graph metric such as betweenness centrality.
-- Identifying which pages are most popular among Facebook users by using the Facebook’s “fan count” metric.  
+- Identifying which pages are most popular among Facebook users by using the Facebook’s “fan count” metric.
 
- - Qualitatively, by:
+Qualitatively, by:
 
 * Identifying prominent clusters by visually exploring the shape and density of nodes groupings in the graph. 
 * Examining the content shared by the pages in the network as well as their titles and self-descriptions to identify shared issues of concern within each cluster.
@@ -75,12 +75,12 @@ To identify how memes frame political or media events the first step is to ident
 
 ### Step 4.2a: Identify memes related to events
 
-To illustrate this recipe we use a sub-selection of 46 pages from the corpus identified in recipe 4.1. The selection was done based on a set of qualitative and quantitative criteria, including their *<u>engagement</u>* counts and the thematic cluster that they belong to. 
+To illustrate this recipe we use a sub-selection of 46 pages from the corpus identified in recipe 4.1. The selection was done based on a set of qualitative and quantitative criteria, including their *`engagement`* counts and the thematic cluster that they belong to. 
 
 * Define a timeframe for meme selection. For this analysis, we selected three days starting with the date of the event under examination.
-* Extract a list of memes posted to your corpus of pages in the selected timeframe. You may use a tool such as **<u>Netvizz</u>** to collect a list of images and related metadata.
-* Download the images for each URL. You may use a browser extension such as **<u>Tab Save</u>** for Chrome or **<u>DownThemAll!</u>** for Firefox.
-* Visually juxtapose the images grouping them by event to enable comparison of memetic reactions across events. You may use an image montage tool such as **<u>ImageJ</u>** (4.2.a).
+* Extract a list of memes posted to your corpus of pages in the selected timeframe. You may use a tool such as **`Netvizz`** to collect a list of images and related metadata.
+* Download the images for each URL. You may use a browser extension such as **`Tab Save`** for Chrome or **`DownThemAll!`** for Firefox.
+* Visually juxtapose the images grouping them by event to enable comparison of memetic reactions across events. You may use an image montage tool such as **`ImageJ`** (4.2.a).
 * You can also explore how different pages react to a single event to enable comparison across pages (4.2.b).
 
 #### Visualization 4.2.a: How do memetic reactions to different political events compare? 
@@ -100,7 +100,7 @@ This recipe may be used to explore participatory production of visual culture ar
 ### Before starting
 
 The recipe illustrates techniques to support content analysis of texts and images contained in memes as well as the detection of genres or styles of memetic activity.
-As examples, we use two Facebook pages which feature pro-Trump memes: *Breitbart* and *God Emperor Trump*. Even if the images posted to these pages do not comply with classic meme formats (e.g. image macros), they exhibit memetic features such as virality, user-driven remixing, imitation and intertextuality. Breitbart has been selected due to its central role in animating the alt-right culture [1]. The *God Emperor Trump* page is one of the most popular pro-Trump, alt-right meme pages with over 245,000 likes and *<u>followers</u>* as of the time of writing. In *Breitbart* only the page administrator can post images, while in *God Emperor Trump* users may submit their productions to the administrator for posting. 
+As examples, we use two Facebook pages which feature pro-Trump memes: *Breitbart* and *God Emperor Trump*. Even if the images posted to these pages do not comply with classic meme formats (e.g. image macros), they exhibit memetic features such as virality, user-driven remixing, imitation and intertextuality. Breitbart has been selected due to its central role in animating the alt-right culture [1]. The *God Emperor Trump* page is one of the most popular pro-Trump, alt-right meme pages with over 245,000 likes and *`followers`* as of the time of writing. In *Breitbart* only the page administrator can post images, while in *God Emperor Trump* users may submit their productions to the administrator for posting. 
 
 > [1] Y., Faris, R., Roberts, H., & Zuckerman, E. (2017, March 3). Study: Breitbart-led right-wing media ecosystem altered broader media agenda. Retrieved March 8, 2017, from http://www.cjr.org/analysis/breitbart-media-trump-harvard-study.php
 
@@ -108,20 +108,20 @@ As examples, we use two Facebook pages which feature pro-Trump memes: *Breitbart
 
 To create a corpus choose a timeframe of interest (for instance the days around a particular political or media event - see recipe 4.2) or use all images posted to a Facebook page.
 
-* The Facebook *<u>API</u>* enables the extraction of metadata associated with images posted to a page and available via the “Photos” tab.
+* The Facebook *`API`* enables the extraction of metadata associated with images posted to a page and available via the “Photos” tab.
 
 
-* Metadata capture may be done with a data extraction tool such as **<u>Netvizz</u>**, using the “page timeline images” module.
-* The outcome of running **<u>Netvizz</u>**’s “page timeline images module” is a tab-separated file containing metadata associated with each image, including its creation date, its URL and its "likes", reactions and comment count. 
-* A browser extension such as **<u>Tab Save</u>** for Chrome or **<u>DownThemAll!</u>** for Firefox may be used to download the images.
-* To extract the text contained within each image you may run the images through some optical character recognition (OCR) software. For this recipe, we used **<u>Google's Vision API</u>** and a script feeding the list of image URLs to the Vision API [2]. 
+* Metadata capture may be done with a data extraction tool such as **`Netvizz`**, using the “page timeline images” module.
+* The outcome of running **`Netvizz`**’s “page timeline images module” is a tab-separated file containing metadata associated with each image, including its creation date, its URL and its "likes", reactions and comment count. 
+* A browser extension such as **`Tab Save`** for Chrome or **`DownThemAll!`** for Firefox may be used to download the images.
+* To extract the text contained within each image you may run the images through some optical character recognition (OCR) software. For this recipe, we used **`Google's Vision API`** and a script feeding the list of image URLs to the Vision API [2]. 
 * You may also use a piece of image analysis software to generate additional metadata for your corpus of images through the detection and labelling of entities, objects and attributes.
 
 > [2] See memespector script written by Bernhard Rieder, University of Amsterdam, at https://github.com/bernorieder/memespector
 
 ### Step 4.3b: Examine themes exploited in the corpus of memes with text analysis (experimental)
 
-To examine the issues that trigger memetic activity you may analyse the text extracted from the images through manual qualitative analysis or semi-automated semantic analysis. The results of this analysis are affected by the quality of the OCR. A computational linguistics tool (e.g. **<u>CorText</u>**) can be used, but the analyst’s judgement remains crucial to evaluate the relevance of the extracted terms and to set the parameters of the tool (what algorithms to use, what types of words to keep, how frequently should they occur, etc.).
+To examine the issues that trigger memetic activity you may analyse the text extracted from the images through manual qualitative analysis or semi-automated semantic analysis. The results of this analysis are affected by the quality of the OCR. A computational linguistics tool (e.g. **`CorText`**) can be used, but the analyst’s judgement remains crucial to evaluate the relevance of the extracted terms and to set the parameters of the tool (what algorithms to use, what types of words to keep, how frequently should they occur, etc.).
 
 * Lexical analysis may help you identify the most relevant terms used in your memes. 
 * You may also run queries on the OCR outputs to explore the resonance of particular issues.
@@ -136,8 +136,8 @@ To examine the issues that trigger memetic activity you may analyse the text ext
 To explore the visual styles deployed in a meme repository, the outputs of the image analysis software described in step 4.2.a may be used, namely the labels or tags generated to describe the entities and attributes detected in our image corpus. We illustrate this analysis on the *God Emperor Trump* page. 
 
 * Images are analysed with Google Vision to extract tags describing the images and textual content.
-* We used **<u>CorText</u>** to examine associations between images based on shared labels. 
-* The configuration of the *<u>network graph</u>* may be visually explored in order to identify and describe visual styles per cluster. 
+* We used **`CorText`** to examine associations between images based on shared labels. 
+* The configuration of the *`network graph`* may be visually explored in order to identify and describe visual styles per cluster. 
 * This operation may be repeated with different pages to compare their different style.
 
 #### Visualization 4.3.c: Can we detect distinct visual styles within a meme repository? 

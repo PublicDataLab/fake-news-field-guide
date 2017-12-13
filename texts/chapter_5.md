@@ -28,7 +28,7 @@ To detect political troll-like activities and their sources, you should start fr
 
 To identify who negatively mentions a political leader on Twitter start from identifying all references of a political leader account on Twitter. Following Twitter practices, you can operationalise references with "mentions" defined by the “@” sign. 
 
-* Capture all @mentions of a set of accounts. We used a Twitter data extraction and analysis toolset called **<u>TCAT</u>**. 
+* Capture all @mentions of a set of accounts. We used a Twitter data extraction and analysis toolset called **`TCAT`**. 
 * We capture all tweets mentioning at least one of the 28 political leader Twitter accounts between 8 February and 8 March 2017, the month before the Dutch general elections. The result is a collection of 519,245 tweets which we use in all the recipes in this set. 
 * To identify the most active “mentioners”, find all the accounts mentioning one of the target accounts more than a given threshold. In our example, we retained the accounts mentioning one of the political leaders more than 100 times in our dataset.
 * Examine mentions by most active “mentioners” identified in the previous step to qualify the nature of each of their references (i.e. whether it is in support of the political leader or negatively targeting them).
@@ -44,7 +44,7 @@ This recipe can be used to identify sources of personal attacks on Twitter and c
 
 ## Recipe 5.2: How may we characterise the sources of troll-like activity? 
 
-###Before starting
+### Before starting
 
 For this recipe we take as a starting point the 25 accounts that mention at least one political leader at least 100 times identified in the previous recipe (we discarded one account because it was no longer active).
 
@@ -54,8 +54,8 @@ One way in which you can characterise the sources of troll-like activity is by e
 
 * Visit each of the accounts and collect their profile information from the Twitter interface (description, profile picture and banner).
 * Analyse this information in order to identify political issues, hashtags mentioned and affiliations. 
-* Take note of the presence or absence of profile images and upload any images identified to **<u>Google Image Search</u>**  to detect whether any of the accounts use fake profile images.
-* Using the Twitter *<u>API</u>*, extract the creation date of the account and examine whether several accounts in your corpus have been created around the same date.
+* Take note of the presence or absence of profile images and upload any images identified to **`Google Image Search`**  to detect whether any of the accounts use fake profile images.
+* Using the Twitter *`API`*, extract the creation date of the account and examine whether several accounts in your corpus have been created around the same date.
 
 #### Visualization 5.2.a: How can we characterise sources of trolling activity based on their profile information?
 
@@ -67,8 +67,8 @@ Another way in which sources of troll-like activity may be characterised is by e
 
 * Use the "GET friends/ids" function of the Twitter API to extract the IDs of all users followed by the trolling-accounts you have identified. [1]
 * Use the "GET users/lookup" function of the Twitter API to retrieve the profile information for each friend. [2]
-* Use **<u>Table2Net</u>** to convert the table containing the studied accounts and their friends in a network of  Twitter accounts connected by the “friendship” relationships between them.
-* You may use a network analysis and visualisation tool such as **<u>Gephi</u>** to explore the shared friends or followees between the accounts engaging in troll-like practices.
+* Use **`Table2Net`** to convert the table containing the studied accounts and their friends in a network of  Twitter accounts connected by the “friendship” relationships between them.
+* You may use a network analysis and visualisation tool such as **`Gephi`** to explore the shared friends or followees between the accounts engaging in troll-like practices.
 
 > [1] See Twitter Developer Platform, API reference: GET friends/ids, 2017, at: https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/api-reference/get-friends-ids 
 
@@ -88,28 +88,28 @@ For this recipe, take as a starting point the accounts identified in the previou
 
 To identify what issues are associated with troll-like activity, examine the hashtags that are used in tweets that mention a politician posted by the users that frequently engage in negative targeting.
 
-* Rank hashtags by their frequency using the “hashtag frequency” feature of **<u>TCAT</u>**.
+* Rank hashtags by their frequency using the “hashtag frequency” feature of **`TCAT`**.
 * Manually analyse the most frequently used hashtags to identify issues that animate activities of users engaged in trolling practices.
 
 #### Visualization 5.3.a: What issues are present in tweets @mentioning a political candidate?
 
-**<u>Bubble graph</u> of issues expressed through hashtags in tweets @mentioning candidates in the 2017 Dutch elections posted by the set of 24 accounts engaging in troll-like activity.** Issues are coloured by type, sized by frequency of occurrences and grouped according to the candidate mentioned in the tweet which contains them. Most tweets with hashtags mention the right-wing populist candidate Geert Wilders. Most prominent are issues related to PVV’s political message (“Nexit”, “StopIslam” and “BanIslam”) as well as those pertaining to expressions of Dutch patriotism. Generally speaking, we can conclude that right-wing politicians receive mainly support from “troll-like users,” while other politicians are the targets of attacks (as discussed in recipe 5.1).
+**`Bubble graph` of issues expressed through hashtags in tweets @mentioning candidates in the 2017 Dutch elections posted by the set of 24 accounts engaging in troll-like activity.** Issues are coloured by type, sized by frequency of occurrences and grouped according to the candidate mentioned in the tweet which contains them. Most tweets with hashtags mention the right-wing populist candidate Geert Wilders. Most prominent are issues related to PVV’s political message (“Nexit”, “StopIslam” and “BanIslam”) as well as those pertaining to expressions of Dutch patriotism. Generally speaking, we can conclude that right-wing politicians receive mainly support from “troll-like users,” while other politicians are the targets of attacks (as discussed in recipe 5.1).
 
 ### Step 5.3b: Investigate the media sources shared by the accounts engaged in negative targeting
 
 To identify the content shared in tweets posted by the users engaged in troll-like activities, examine the URLs inserted in their tweets.
 
-* Use the “hosts frequency” feature of **<u>TCAT</u>** to extract the media sources ranked by frequency of occurrence.
+* Use the “hosts frequency” feature of **`TCAT`** to extract the media sources ranked by frequency of occurrence.
 * Manually analyse the most frequently used media sources to determine their profile.
 * Analysis of URL sharing behaviour across the set of users may be used as a means to detect troll-like activity.
 
-####Visualization 5.3.b: What media sources are present in tweets @mentioning a political candidate?
+#### Visualization 5.3.b: What media sources are present in tweets @mentioning a political candidate?
 
 **Venn diagram of most resonant media sources in tweets @mentioning candidates in the 2017 Dutch elections posted by the set of 24 accounts engaging in trolling activity.** The most tweeted source is the Dutch alt-right blog *fenixx.org* followed by the anti-islam site *Jihad Watch* and the right-wing think tank *Gatestone Institute*.
 
 #### Visualization 5.3.c: How is URL posting distributed across the users engaging in negative targeting?
 
-**<u>Network graph</u> of distribution of URLs shared across the 24 users engaging in negative targeting of politicians in the month before the Dutch elections.** The graph shows two users to be responsible for the majority of URLs posted in the studied timeframe.
+**`Network graph` of distribution of URLs shared across the 24 users engaging in negative targeting of politicians in the month before the Dutch elections.** The graph shows two users to be responsible for the majority of URLs posted in the studied timeframe.
 
 ### SERVING SUGGESTIONS
 

@@ -39,98 +39,98 @@ Beyond questions about how digital landscapes are studied, organised and reshape
 
 In this section we provide brief descriptions and links to various tools that are referenced throughout the field guide. These descriptions are intended to be sufficiently informative to enable readers to follow the text. It should be noted that it is very important in any research project or investigation to develop an appreciation of precisely how they work and what they do (and what they do not do). Hence we advise you to refer to the documentation and more detailed descriptions on the websites listed below before using them in your own project.
 
-**<u>BuzzSumo:</u>** a social analytics service which enables users to explore the most “engaged” content relative to a given topic or domain. You can filter the results by language, country, word count and content type (article, infographic, interviews, videos). (http://buzzsumo.com/)
+**`BuzzSumo:`** a social analytics service which enables users to explore the most “engaged” content relative to a given topic or domain. You can filter the results by language, country, word count and content type (article, infographic, interviews, videos). (http://buzzsumo.com/)
 
-**<u>CorText:</u>** an online application used to analyse textual data. It allows users to create various types of statistical and network visualisations. (http://www.cortext.net/) 
+**`CorText:`** an online application used to analyse textual data. It allows users to create various types of statistical and network visualisations. (http://www.cortext.net/) 
 
-**<u>CrowdTangle:</u>** digital tool that allows users to track how content spreads through the web and follow the performance of posts and accounts on Facebook, Twitter, YouTube, Instagram and Vine. (http://www.crowdtangle.com)
+**`CrowdTangle:`** digital tool that allows users to track how content spreads through the web and follow the performance of posts and accounts on Facebook, Twitter, YouTube, Instagram and Vine. (http://www.crowdtangle.com)
 
-**<u>CSV Rinse Repeat:</u>** a JavaScript based tool to clean and structure a csv files, including filtering, clustering, parsing, merging and matching regular expressions. (http://tools.medialab.sciences-po.fr/csv-rinse-repeat/) 
+**`CSV Rinse Repeat:`** a JavaScript based tool to clean and structure a csv files, including filtering, clustering, parsing, merging and matching regular expressions. (http://tools.medialab.sciences-po.fr/csv-rinse-repeat/) 
 
-**<u>DMI Tracker Tracker:</u>** a web-based tool which uses data from the Ghostery project to detect a set of over 900 “fingerprints” of analytics tools, widgets, social plugins, and other trackers in a given set of URLs. (https://tools.digitalmethods.net/beta/trackerTracker/) 
+**`DMI Tracker Tracker:`** a web-based tool which uses data from the Ghostery project to detect a set of over 900 “fingerprints” of analytics tools, widgets, social plugins, and other trackers in a given set of URLs. (https://tools.digitalmethods.net/beta/trackerTracker/) 
 
-**<u>DMI Triangulation Tool:</u>** identifies common items in two or more lists. (https://tools.digitalmethods.net/beta/triangulate/) 
+**`DMI Triangulation Tool:`** identifies common items in two or more lists. (https://tools.digitalmethods.net/beta/triangulate/) 
 
-**<u>DownThemAll!:</u>** a Mozilla Firefox extension that allows you to collect all the links and images contained in a web page. https://addons.mozilla.org/en-US/firefox/addon/downthemall/ 
+**`DownThemAll!:`** a Mozilla Firefox extension that allows you to collect all the links and images contained in a web page. https://addons.mozilla.org/en-US/firefox/addon/downthemall/ 
 
-**<u>Gephi:</u>** network analysis and visualization software. Gephi is particularly helpful for finding patterns, trends and insights in relational datasets. (http://gephi.org)
+**`Gephi:`** network analysis and visualization software. Gephi is particularly helpful for finding patterns, trends and insights in relational datasets. (http://gephi.org)
 
-**<u>Google Image Search:</u>** a search service provided by Google, which allows users to retrieve images related to a keyword or a query. (http://images.google.com) 
+**`Google Image Search:`** a search service provided by Google, which allows users to retrieve images related to a keyword or a query. (http://images.google.com) 
 
-**<u>Google News Search:</u>** a news aggregator from Google which provides results on news articles, sorting them by date and time of publication. (https://news.google.com/) 
+**`Google News Search:`** a news aggregator from Google which provides results on news articles, sorting them by date and time of publication. (https://news.google.com/) 
 
-**<u>Google's Vision API:</u>** an image analysis tool which allows you to categorise pictures, detect objects or individual faces, as well as to extract textual content. (https://cloud.google.com/vision/) 
+**`Google's Vision API:`** an image analysis tool which allows you to categorise pictures, detect objects or individual faces, as well as to extract textual content. (https://cloud.google.com/vision/) 
 
-**<u>Google Web Search:</u>** Google's main search engine which provides results based on “Page Rank” (see concept dictionary)
+**`Google Web Search:`** Google's main search engine which provides results based on “Page Rank” (see concept dictionary)
 
-**<u>Graph Recipes:</u>** an online Javascript tool that allows you to generate static images and compute statistical metrics about networks. A number of default scripts are offered by the tool, but others can be added by the user (http://tools.medialab.sciences-po.fr/graph-recipes) 
+**`Graph Recipes:`** an online Javascript tool that allows you to generate static images and compute statistical metrics about networks. A number of default scripts are offered by the tool, but others can be added by the user (http://tools.medialab.sciences-po.fr/graph-recipes) 
 
-**<u>Hyphe:</u>** a semi-automated web crawler allowing users to identify and follow the hyperlinks a on a series of webpages, to define and categorize a corpus of websites and to generate networks of web-entities and their connections. (http://hyphe.medialab.sciences-po.fr/) 
+**`Hyphe:`** a semi-automated web crawler allowing users to identify and follow the hyperlinks a on a series of webpages, to define and categorize a corpus of websites and to generate networks of web-entities and their connections. (http://hyphe.medialab.sciences-po.fr/) 
 
-**<u>ImageJ:</u>** an open source, Java-based program used to edit, calibrate, process, measure and analyse visual data. (https://imagej.nih.gov/ij/) 
+**`ImageJ:`** an open source, Java-based program used to edit, calibrate, process, measure and analyse visual data. (https://imagej.nih.gov/ij/) 
 
-**<u>Le Monde Décodex:</u>** tool that helps users to check the reliability of the sources of online information as well as to identify rumours and misinformation. (http://www.lemonde.fr/verification/) 
+**`Le Monde Décodex:`** tool that helps users to check the reliability of the sources of online information as well as to identify rumours and misinformation. (http://www.lemonde.fr/verification/) 
 
-**<u>Netvizz app:</u>** a Facebook application that extracts a variety of data from different sections of the platform, including groups, fan pages and search function. (https://apps.facebook.com/netvizz/) 
+**`Netvizz app:`** a Facebook application that extracts a variety of data from different sections of the platform, including groups, fan pages and search function. (https://apps.facebook.com/netvizz/) 
 
-**<u>Radarly:</u>** a commercial tool to monitor social media, which allows you to track what is being said about particular topics, people or events online. (http://linkfluence.com/en/products/radarly/)
+**`Radarly:`** a commercial tool to monitor social media, which allows you to track what is being said about particular topics, people or events online. (http://linkfluence.com/en/products/radarly/)
 
-**<u>RAWGraphs:</u>** allows you to create vector-based visualizations of your dataset. Based on the svg format, RAWGraphs is customizable and visualizations can be imported in and edited with vector graphics applications for further refinements, or directly embedded into web pages. (http://rawgraphs.io)
+**`RAWGraphs:`** allows you to create vector-based visualizations of your dataset. Based on the svg format, RAWGraphs is customizable and visualizations can be imported in and edited with vector graphics applications for further refinements, or directly embedded into web pages. (http://rawgraphs.io)
 
-**<u>Spyonweb:</u>** allows you to identify websites associated with the same IDs by querying the WHOIS protocol of registered users or assignees of an Internet resource. (http://spyonweb.com)
+**`Spyonweb:`** allows you to identify websites associated with the same IDs by querying the WHOIS protocol of registered users or assignees of an Internet resource. (http://spyonweb.com)
 
-**<u>Tab Save:</u>** a Google Chrome extension that allows you to collect and save files such as PDFs, images or list of URLs available on a web page.
+**`Tab Save:`** a Google Chrome extension that allows you to collect and save files such as PDFs, images or list of URLs available on a web page.
 (https://chrome.google.com/webstore/detail/tab-save/lkngoeaeclaebmpkgapchgjdbaekacki?hl=en)
 
-**<u>Table2Net:</u>** an online javascript tool that allows you to transform tables (.csv) into networks (.gexf) by choosing which columns represent the nodes and which represent the edges (http://tools.medialab.sciences-po.fr/table2net) 
+**`Table2Net:`** an online javascript tool that allows you to transform tables (.csv) into networks (.gexf) by choosing which columns represent the nodes and which represent the edges (http://tools.medialab.sciences-po.fr/table2net) 
 
-**<u>TCAT (Twitter Capture and Analysis Toolset):</u>** a tool that allows you to retrieve and collect data from Twitter. The datasets can be collected based on keyword, user or hashtag queries. (https://wiki.digitalmethods.net/Dmi/ToolDmiTcat) 
+**`TCAT (Twitter Capture and Analysis Toolset):`** a tool that allows you to retrieve and collect data from Twitter. The datasets can be collected based on keyword, user or hashtag queries. (https://wiki.digitalmethods.net/Dmi/ToolDmiTcat) 
 
-**<u>The Wayback Machine:</u>** an initiative by the Internet Archive, which archives versions of  websites at regular intervals. (https://archive.org/web/)
+**`The Wayback Machine:`** an initiative by the Internet Archive, which archives versions of  websites at regular intervals. (https://archive.org/web/)
 
 # Concept Glossary
 
-*<u>API (Application Programming Interface):</u>* a set of clearly defined methods of communication that allows two pieces of software to communicate with each. In Web research APIs are often used to extract data from public or private datasets (typically those collected by social platforms), without having direct access to the database that contains them.
+*`API (Application Programming Interface):`* a set of clearly defined methods of communication that allows two pieces of software to communicate with each. In Web research APIs are often used to extract data from public or private datasets (typically those collected by social platforms), without having direct access to the database that contains them.
 
-*<u>Bubble Graph:</u>* a type of scatterplot (see the definition in this glossary) in which the size of the projected point is proportional to a third variable. 
+*`Bubble Graph:`* a type of scatterplot (see the definition in this glossary) in which the size of the projected point is proportional to a third variable. 
 
-*<u>Circle packing:</u>* a type of data visualisation used to visualize hierarchically structured data. Each cluster/group is represented by a circle. The circle is then packed with smaller circles representing sub-groups. The size of the circle can represent different quantitative properties. 
+*`Circle packing:`* a type of data visualisation used to visualize hierarchically structured data. Each cluster/group is represented by a circle. The circle is then packed with smaller circles representing sub-groups. The size of the circle can represent different quantitative properties. 
 
-*<u>Clickbait:</u>* online content with the main purpose of attracting attention and encouraging users to click on a link to a particular page. 
+*`Clickbait:`* online content with the main purpose of attracting attention and encouraging users to click on a link to a particular page. 
 
-*<u>CMS (Content Management System):</u>* is a software application used to create and manage digital content and websites in particular.
+*`CMS (Content Management System):`* is a software application used to create and manage digital content and websites in particular.
 
-*<u>Emergent coding:</u>* a technique to classify items through categories that are not presupposed before the observation, but are iteratively defined in the exploration process. The purpose of this type of coding is to remain as close as possible to the categories used by the studied actors themselves instead of fitting data into pre-established categories. 
+*`Emergent coding:`* a technique to classify items through categories that are not presupposed before the observation, but are iteratively defined in the exploration process. The purpose of this type of coding is to remain as close as possible to the categories used by the studied actors themselves instead of fitting data into pre-established categories. 
 
-*<u>Facebook page or group followers:</u>* number of users who have liked a Facebook page or joined a group. 
+*`Facebook page or group followers:`* number of users who have liked a Facebook page or joined a group. 
 
-*<u>Flow Diagram:</u>* a type of data visualisation used to represent the flow of information through a system.  
+*`Flow Diagram:`* a type of data visualisation used to represent the flow of information through a system.  
 
-*<u>Force-directed network layout:</u>* a graph drawing algorithm used to spatialize items inside a network and help make sense of the data. The force-directed layout uses repulsive forces between the nodes while applying attractive forces between adjacent nodes.
+*`Force-directed network layout:`* a graph drawing algorithm used to spatialize items inside a network and help make sense of the data. The force-directed layout uses repulsive forces between the nodes while applying attractive forces between adjacent nodes.
 
-*<u>Google Analytics ID:</u>* an identification assigned by Google Analytics (Google's service to tracks and reports website traffic) to identify a user account.
+*`Google Analytics ID:`* an identification assigned by Google Analytics (Google's service to tracks and reports website traffic) to identify a user account.
 
-*<u>Heatmap:</u>* a type of data visualisation in which the variation of values present in a table or matrix are represented by a gradient of colors. 
+*`Heatmap:`* a type of data visualisation in which the variation of values present in a table or matrix are represented by a gradient of colors. 
 
-*<u>Interactions/engagement:</u>* the total number of likes, shares and comments on a Facebook post (source: http://www.crowdtangle.com/resources/glossary).
+*`Interactions/engagement:`* the total number of likes, shares and comments on a Facebook post (source: http://www.crowdtangle.com/resources/glossary).
 
-*<u>Network analysis and visualisation:</u>* the process of investigating the connections/relationships between individuals, webpages, accounts or any other group of entities. Using visualization tools such as Gephi it is possible to characterize associative phenomena in terms of nodes (individual actors, people, items) and the ties, or links, that connect them. 
+*`Network analysis and visualisation:`* the process of investigating the connections/relationships between individuals, webpages, accounts or any other group of entities. Using visualization tools such as Gephi it is possible to characterize associative phenomena in terms of nodes (individual actors, people, items) and the ties, or links, that connect them. 
 
-*<u>Network Graph:</u>* a type of data visualisation used to highlight the relationship between entities, where nodes (or points) represent the entities and lines (or arc, or edges) represent the relationship between them.  
+*`Network Graph:`* a type of data visualisation used to highlight the relationship between entities, where nodes (or points) represent the entities and lines (or arc, or edges) represent the relationship between them.  
 
-*<u>PageRank:</u>* the algorithm used by Google Search to rank the results of its queries. While there are several factors that influence the position of a website on a query (combined in ways that are not publicly known), the basis of the ranking is the recursive count to the references pointing to a website (how many pages point to a page and how many pages point to those pages).
+*`PageRank:`* the algorithm used by Google Search to rank the results of its queries. While there are several factors that influence the position of a website on a query (combined in ways that are not publicly known), the basis of the ranking is the recursive count to the references pointing to a website (how many pages point to a page and how many pages point to those pages).
 
-*<u>Scatter plot:</u>* a type of data visualisation in which points are positioned in a Cartesian diagram according to the value that they have on two different variables (corresponding to the axes of the diagram). This type of diagram is most often used to reveal a correlation between the two variables it represents. 
+*`Scatter plot:`* a type of data visualisation in which points are positioned in a Cartesian diagram according to the value that they have on two different variables (corresponding to the axes of the diagram). This type of diagram is most often used to reveal a correlation between the two variables it represents. 
 
-*<u>Source code:</u>* a set of instructions written in programing languages, such as HTML or JavaScript, defining how software should function or a document be displayed.
+*`Source code:`* a set of instructions written in programing languages, such as HTML or JavaScript, defining how software should function or a document be displayed.
 
-*<u>Subscriber Count on CrowdTangle Output Spreadsheet:</u>* the number of subscribers the account had when the post was published - in contrast to the subscriber count found on the account, which represents the current number of subscribers an account has (source: https://github.com/CrowdTangle/API/wiki/Post#statistics).
+*`Subscriber Count on CrowdTangle Output Spreadsheet:`* the number of subscribers the account had when the post was published - in contrast to the subscriber count found on the account, which represents the current number of subscribers an account has (source: https://github.com/CrowdTangle/API/wiki/Post# statistics).
 
-*<u>Treemap:</u>* a type of data visualisation used to represented a hierarchical categorisation through nested rectangles. Each category is associated to a rectangle, whose size is proportional to the importance or weight of the group and which is then filled with smaller rectangles representing sub-groups.  
+*`Treemap:`* a type of data visualisation used to represented a hierarchical categorisation through nested rectangles. Each category is associated to a rectangle, whose size is proportional to the importance or weight of the group and which is then filled with smaller rectangles representing sub-groups.  
 
-*<u>Web crawling:</u>* the process of extracting the network of hyperlinks connecting an ensemble of websites or webpages. Crawling is generally performed by automatic or semi-automatic tools called 'spiders' capable to identify and follow all the hyperlinks present on a set of HTML pages.
+*`Web crawling:`* the process of extracting the network of hyperlinks connecting an ensemble of websites or webpages. Crawling is generally performed by automatic or semi-automatic tools called 'spiders' capable to identify and follow all the hyperlinks present on a set of HTML pages.
 
-*<u>Web scraping:</u>* a method for extracting structured information or content from a website (and saving it in a tabular format).
+*`Web scraping:`* a method for extracting structured information or content from a website (and saving it in a tabular format).
 
 # CONTRIBUTORS AND ACKNOWLEDGEMENTS
 
@@ -138,141 +138,141 @@ In this section we provide brief descriptions and links to various tools that ar
 
 ### Co-investigators
 
-Liliana Bounegru, University of Groningen, University of Ghent 
+**Liliana Bounegru,** University of Groningen, University of Ghent 
 
-Jonathan Gray, King’s College London
+**Jonathan Gray,** King’s College London
 
-Tommaso Venturini, Univ Lyon, Inria, ENS de Lyon, CNRS, UCB 
+**Tommaso Venturini,** Univ Lyon, Inria, ENS de Lyon, CNRS, UCB 
 
-Michele Mauri, DensityDesign
+**Michele Mauri,** DensityDesign
 
 ### Research and Editorial Assistant
 
-Daniela Demarchi, University of Amsterdam
+**Daniela Demarchi,** University of Amsterdam
 
 ### Editorial Design
 
-Ángeles Briones, DensityDesign Research Lab
+**Ángeles Briones,** DensityDesign Research Lab
 
-Carlo De Gaetano, DensityDesign Research Lab
+**Carlo De Gaetano,** DensityDesign Research Lab
 
 #### DensityDesign Researchers
 
-Agata Brilli, Politecnico di Milano
+**Agata Brilli,** Politecnico di Milano
 
-Ángeles Briones, Politecnico di Milano
+**Ángeles Briones,** Politecnico di Milano
 
-Carlo De Gaetano, Politecnico di Milano
+**Carlo De Gaetano,** Politecnico di Milano
 
-Gabriele Colombo, Politecnico di Milano
+**Gabriele Colombo,** Politecnico di Milano
 
-Mariasilvia Poltronieri, Politecnico di Milano
+**Mariasilvia Poltronieri,** Politecnico di Milano
 
-Michele Invernizzi, Politecnico di Milano
+**Michele Invernizzi,** Politecnico di Milano
 
-Michele Mauri, Politecnico di Milano
+**Michele Mauri,** Politecnico di Milano
 
-Paolo Ciuccarelli, Politecnico di Milano
+**Paolo Ciuccarelli,** Politecnico di Milano
 
-Tommaso Elli, Politecnico di Milano
+**Tommaso Elli,** Politecnico di Milano
 
 #### Facilitators
 
-Alex Gekker, University of Amsterdam
+**Alex Gekker,** University of Amsterdam
 
-Anders Munk, Aalborg University
+**Anders Munk,** Aalborg University
 
-Bilel Benbouzid, University of Paris-Est Marne-la-Vallée
+**Bilel Benbouzid,** University of Paris-Est Marne-la-Vallée
 
-Erik Borra, University of Amsterdam
+**Erik Borra,** University of Amsterdam
 
-Esther Weltevrede, University of Amsterdam
+**Esther Weltevrede,** University of Amsterdam
 
-Jonathan Gray, King's College London
+**Jonathan Gray,** King's College London
 
-Jorn Preuss, University of Siegen
+**Jorn Preuss,** University of Siegen
 
-Liliana Bounegru, University of Ghent, University of Groningen
+**Liliana Bounegru,** University of Ghent, University of Groningen
 
-Marc Tuters, University of Amsterdam
+**Marc Tuters,** University of Amsterdam
 
-Mathieu Jacomy, Sciences Po
+**Mathieu Jacomy,** Sciences Po
 
-Natalia Sánchez-Querubín, University of Amsterdam
+**Natalia Sánchez-Querubín,** University of Amsterdam
 
-Nicolas Baya-Laffite, University of Lausanne
+**Nicolas Baya-Laffite,** University of Lausanne
 
-Paolo Ciuccarelli, Politecnico di Milano
+**Paolo Ciuccarelli,** Politecnico di Milano
 
-Richard Rogers, University of Amsterdam
+**Richard Rogers,** University of Amsterdam
 
-Sabine Niederer, Hogeschool van Amsterdam
+**Sabine Niederer,** Hogeschool van Amsterdam
 
-Tommaso Venturini, Univ Lyon, Inria, ENS de Lyon, CNRS, UCB 
+**Tommaso Venturini,** Univ Lyon, Inria, ENS de Lyon, CNRS, UCB 
 
 #### Analysts
 
-Anders Grundtvig, Aalborg University 
+**Anders Grundtvig,** Aalborg University 
 
-Anna Keuchenius, University of Amsterdam
+**Anna Keuchenius,** University of Amsterdam
 
-Antonio Martella, University of Amsterdam
+**Antonio Martella,** University of Amsterdam
 
-Asbjørn Fleinert Mathiasen, Aalborg University 
+**Asbjørn Fleinert Mathiasen,** Aalborg University 
 
-Asger Gehrt Olesen, Aalborg University 
+**Asger Gehrt Olesen,** Aalborg University 
 
-Carlo Santagiustina, University of Amsterdam
+**Carlo Santagiustina,** University of Amsterdam
 
-Charlotte Leclercq, University of Amsterdam
+**Charlotte Leclercq,** University of Amsterdam
 
-Daniel Bach, Aalborg University
+**Daniel Bach,** Aalborg University
 
-Daniela Demarchi, University of Amsterdam
+**Daniela Demarchi,** University of Amsterdam
 
-Ecesu Erol, University of Amsterdam
+**Ecesu Erol,** University of Amsterdam
 
-Emil Jørgensen, Aalborg University
+**Emil Jørgensen,** Aalborg University
 
-Joep Voorn, University of Amsterdam 
+**Joep Voorn,** University of Amsterdam 
 
-Jörn Preuss, University of Siegen 
+**Jörn Preuss,** University of Siegen 
 
-Kaspar Beelen, University of Amsterdam
+**Kaspar Beelen,** University of Amsterdam
 
-Katerina Gladkova, University of Amsterdam
+**Katerina Gladkova,** University of Amsterdam
 
-Lieke Kersten, University of Amsterdam
+**Lieke Kersten,** University of Amsterdam
 
-Lisanne Blomberg, University of Amsterdam
+**Lisanne Blomberg,** University of Amsterdam
 
-Manon van Hoek, University of Amsterdam
+**Manon van Hoek,** University of Amsterdam
 
-Maria Hayat, University of Amsterdam
+**Maria Hayat,** University of Amsterdam
 
-Marlene Scherf, University of Amsterdam
+**Marlene Scherf,** University of Amsterdam
 
-Michel Blonk, University of Amsterdam
+**Michel Blonk,** University of Amsterdam
 
-Mintsje de Witte, University of Amsterdam
+**Mintsje de Witte,** University of Amsterdam
 
-Mischa Benjamin Szpirt, Aalborg University
+**Mischa Benjamin Szpirt,** Aalborg University
 
-Pieter Vliegenthart, University of Amsterdam
+**Pieter Vliegenthart,** University of Amsterdam
 
-Rina Tsubaki, European Journalism Centre
+**Rina Tsubaki,** European Journalism Centre
 
-Ronja Ingeborg Lofstad, Aalborg University
+**Ronja Ingeborg Lofstad,** Aalborg University
 
-Sal Hagen, University of Amsterdam
+**Sal Hagen,** University of Amsterdam
 
-Stefani Mans, University of Amsterdam
+**Stefani Mans,** University of Amsterdam
 
-Stefanie Voortman, University of Amsterdam
+**Stefanie Voortman,** University of Amsterdam
 
-Talia Castellanos Usigli, University of Amsterdam
+**Talia Castellanos Usigli,** University of Amsterdam
 
-Zoë Versteegen, University of Amsterdam
+**Zoë Versteegen,** University of Amsterdam
 
 ## Contributors by chapter
 
@@ -280,119 +280,119 @@ Zoë Versteegen, University of Amsterdam
 
 #### Facilitators:
 
-Liliana Bounegru, University of Groningen, University of Ghent
+**Liliana Bounegru,** University of Groningen, University of Ghent
 
-Jonathan Gray, King’s College London
+**Jonathan Gray,** King’s College London
 
-Natalia Sánchez-Querubín, University of Amsterdam
+**Natalia Sánchez-Querubín,** University of Amsterdam
 
-Erik Borra, University of Amsterdam
+**Erik Borra,** University of Amsterdam
 
-Esther Weltevrede, University of Amsterdam
+**Esther Weltevrede,** University of Amsterdam
 
 #### Analysts:
 
-Lisanne Blomberg, University of Amsterdam
+**Lisanne Blomberg,** University of Amsterdam
 
-Talía Castellanos, University of Amsterdam
+**Talía Castellanos,** University of Amsterdam
 
-Tommaso Elli, DensityDesign Research Lab
+**Tommaso Elli,** DensityDesign Research Lab
 
-Mintsje de Witte, University of Amsterdam
+**Mintsje de Witte,** University of Amsterdam
 
-Stefanie Voortman, University of Amsterdam
+**Stefanie Voortman,** University of Amsterdam
 
-Stefani Mans, University of Amsterdam
+**Stefani Mans,** University of Amsterdam
 
-Antonio Martella, University of Amsterdam 
+**Antonio Martella,** University of Amsterdam 
 
-Rina Tsubaki, European Journalism Centre
+**Rina Tsubaki,** European Journalism Centre
 
-Manon van Hoek, University of Amsterdam
+**Manon van Hoek,** University of Amsterdam
 
-Zoë Versteegen, University of Amsterdam
+**Zoë Versteegen,** University of Amsterdam
 
-Joep Voorn, University of Amsterdam
+**Joep Voorn,** University of Amsterdam
 
 ### Chapter 2. TRACING THE CIRCULATION OF FAKE NEWS ON THE WEB
 
 #### Facilitators:
 
-Mathieu Jacomy, Sciences Po
+**Mathieu Jacomy,** Sciences Po
 
-Anders Kristian Munk, Aalborg University
+**Anders Kristian Munk,** Aalborg University
 
-Tommaso Venturini, Univ Lyon, Inria, ENS de Lyon, CNRS, UCB
+**Tommaso Venturini,** Univ Lyon, Inria, ENS de Lyon, CNRS, UCB
 
 #### Analysts:
 
-Agata Brilli, DensityDesign Research Lab
+**Agata Brilli,** DensityDesign Research Lab
 
-Anders Grundtvig, Aalborg University
+**Anders Grundtvig,** Aalborg University
 
-Daniela Demarchi, University of Amsterdam
+**Daniela Demarchi,** University of Amsterdam
 
-Ronja Lofstad, Aalborg University
+**Ronja Lofstad,** Aalborg University
 
 ### Chapter 3. USING TRACKER SIGNATURES TO MAP THE TECHNO-COMMERCIAL UNDERPINNINGS OF FAKE NEWS SITES
 
 #### Facilitators:
 
-Liliana Bounegru, University of Groningen, University of Ghent
+**Liliana Bounegru,** University of Groningen, University of Ghent
 
-Richard Rogers, University of Amsterdam
+**Richard Rogers,** University of Amsterdam
 
 #### Analysts:
 
-Michele Invernizzi, DensityDesign Research Lab
+**Michele Invernizzi,** DensityDesign Research Lab
 
-Mischa Szpirt, Aalborg University
+**Mischa Szpirt,** Aalborg University
 
 ### Chapter 4. HOW TO STUDY POLITICAL MEMES ON FACEBOOK
 
 #### Facilitators:
 
-Marc Tuters, University of Amsterdam
+**Marc Tuters,** University of Amsterdam
 
-Nicolas Baya-Laffite, University of Lausanne
+**Nicolas Baya-Laffite,** University of Lausanne
 
-Bilel Benbouzid, University of Paris-Est Marne-la-Vallée
+**Bilel Benbouzid,** University of Paris-Est Marne-la-Vallée
 
 #### Analysts: 
 
-Daniel Bach, Aalborg University
+**Daniel Bach,** Aalborg University
 
-Carlo De Gaetano, DensityDesign Research Lab
+**Carlo De Gaetano,** DensityDesign Research Lab
 
-Sal Hagen, University of Amsterdam
+**Sal Hagen,** University of Amsterdam
 
-Emil Jørgensen, Aalborg University
+**Emil Jørgensen,** Aalborg University
 
 ### Chapter 5. MAPPING TROLL-LIKE PRACTICES ON TWITTER
 
 #### Facilitators:
 
-Sabine Niederer, Hogeschool van Amsterdam
+**Sabine Niederer,** Hogeschool van Amsterdam
 
-Jörn Preuß, University of Siegen
+**Jörn Preuß,** University of Siegen
 
-Erik Borra, University of Amsterdam
+**Erik Borra,** University of Amsterdam
 
-Esther Weltevrede, University of Amsterdam
+**Esther Weltevrede,** University of Amsterdam
 
 #### Analysts:
 
-Ángeles Briones, DensityDesign Research Lab
+**Ángeles Briones,** DensityDesign Research Lab
 
-Michel Blonk, University of Amsterdam
+**Michel Blonk,** University of Amsterdam
 
-Lieke Kersten, University of Amsterdam
+**Lieke Kersten,** University of Amsterdam
 
-Carlo Santagiustina, University of Amsterdam
+**Carlo Santagiustina,** University of Amsterdam
 
-Marlene Scherf, University of Amsterdam
+**Marlene Scherf,** University of Amsterdam
 
-Pieter Vliegenthart, University of Amsterdam
+**Pieter Vliegenthart,** University of Amsterdam
 
 ## Other acknowledgements
 
