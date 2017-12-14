@@ -18,7 +18,7 @@ It is basically a text file with few special charachters that define the appaere
 
 You can modify it using any text editor, however we strongly recommend to use [Typora](https://typora.io/) which allows you to see the results of your edits.
 
-texts of the book are divided in six files:
+Texts of the book are divided in six files:
 
 * **chapter-00** contains the inside cover text, introduction, and visual conventions;
 * from **chapter-01** to **chapter-05** are the file containing texts of realted chapters;
