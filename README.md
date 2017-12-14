@@ -1,12 +1,13 @@
 # A Field Guide to "Fake News" and Other Information Disorders
 This repository contains all the files and documentation necessary to reuse, remix and translate this field guide. 
 
-The content of the guide is released under the Creative Commons Attribution License (creativecommons.org/licenses/by/3.0/). This means you
-can freely share, adapt and draw on this work as long as you give credit, as per the terms of the license. We are still defining the license for graphics contained in the guide. 
+The content of the guide is released under the Creative Commons Attribution License ([creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)). This means you
+can freely share, adapt and draw on this work as long as you give credit, as per the terms of the license. The license applies on texts and graphics contained in this book.
 
 If you reproduce or draw on material from this guide, we’d be grateful if you could credit and link back as per the following
-statement: “This article draws on A Field Guide to Fake News, a collaboration of the Public Data Lab and First Draft. For further
-details see: http://fakenews.publicdatalab.org”
+statement:
+
+> This article draws on A Field Guide to Fake News, a collaboration of the Public Data Lab and First Draft. For further details see: http://fakenews.publicdatalab.org
 
 ## What is inside
 
