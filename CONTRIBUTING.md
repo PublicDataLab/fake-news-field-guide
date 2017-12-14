@@ -60,7 +60,7 @@ The overall layout of the book is in [Adobe InDesign CC 2017](http://www.adobe.c
 
 The layout is composed by a book file named `A Field Guide to Fake News.indb`.
 
-It contains the liks to the six sections composing the book.
+It contains the links to the six sections composing the book.
 
 Before opening the file, check that all the needed fonts are installed on your computer (you can find them in the folder named `Document fonts`).
 
