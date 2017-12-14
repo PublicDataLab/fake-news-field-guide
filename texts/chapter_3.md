@@ -34,6 +34,8 @@ From the *`source code`* of web pages it is often possible to see which third-pa
 
 **Scatterplot representing tracker usage on a series of fake news and mainstream media sites.** While fake news sites and mainstream media sites share popular tracker services such as Google Adsense, DoubleClick and Google Analytics, mainstream media sites appears more mature and sophisticated in its use of trackers in terms of the number and diversity of trackers that it uses.
 
+![Visualization 3.1.a](../output/images/3-1-a.jpg)
+
 ### SERVING SUGGESTIONS
 
 This recipe can be used to profile the tracking practices associated with different kinds of websites – including which trackers are either mainly or exclusively associated with fake news websites and what these trackers do – as well as identifying most commonly used trackers. It can also be used for exploring the “long tail” of smaller and more specialised trackers.
@@ -55,6 +57,8 @@ In order to explore how different URLs share the same patterns of tracker usage 
 #### Visualisation 3.2a: How do fake news sites and mainstream media cluster according their tracker usage?
 
 **Bipartite network of trackers and websites that use them.** Shared tracker signatures may be used to explore tracker practices or strategies amongst a set of websites or to detect fake news “media groups.”
+
+![Visualization 3.2.a](../output/images/3-2-a.jpg)
 
 ### SERVING SUGGESTIONS
 
@@ -79,6 +83,8 @@ This recipe can be used to identify which trackers were being used by a given we
 
 **Tracker ecologies on fake news sites before and after blacklisting from major ad networks.** While ad networks from which fake news sites have been blacklisted remain in the source code of these sites and hence are present in the graphic even after the moment of blacklisting, the visualisation also illustrates new ad networks that fake news sites have moved to. A manual review of ad services used to serve ads on the website interface may help to further refine this analysis and identify false positives (i.e. tracker services that are no longer in use but whose code remains embedded in these sites).
 
+![Visualization 3.3.a](../output/images/3-3-a.jpg)
+
 ### Serving suggestions
 
 Given debates and proposals about stopping the ad revenue of fake news, this recipe may be used to understand how fake news websites are adapting to the measures taken by trackers services, technology companies and advertisers – as well as how effective these measures are. For example, it can show which trackers have been dropped, which remain and which are added at different moments in time.
@@ -102,6 +108,8 @@ This recipe can be used to identify which other websites share the same tracker 
 
 **A selection of websites which share the same Google Analytics IDs, based on seed list from EU Disinformation Review.** This illustrates the diversity of online settings where claims labelled as Russian disinformation are shared – from large media groups such as *Russia Today*, to themed clusters (e.g. military or mysticism), and geographical clusters (e.g. Canadian). One can also identify distinctive visual styles and possible shared **`CMS`** features amongst different websites in these clusters, which may be used as the basis for further investigations into the media, publication and communication strategies of websites associated with misleading information online.
 
+![Visualization 3.4.a](../output/images/3-4-a.jpg)
+
 ## Recipe 3.5: Do trackers associated with hyper-partisan, and misleading information sites vary across language spheres?
 
 ### Before starting
@@ -117,6 +125,8 @@ For this recipe, you will need lists of fake news, hyper-partisan or misleading 
 #### Visualisation 3.5a: Do misleading information and hyper-partisan websites in different language spheres have distinct tracker ecologies?
 
 **Visualisation of tracker ecologies associated with hyper-partisan or misleading information sites across three language spheres.** While popular ad and widget services such as DoubleClick, Google Adsense and Facebook Connect are shared across language spheres, unique services per language sphere may also be detected. For example, trackers associated with the Russian-language focused Mail.ru Group are only found in the set of websites associated with the German language sphere.
+
+![Visualization 3.5.a](../output/images/3-5-a.jpg)
 
 ### Serving suggestions
 

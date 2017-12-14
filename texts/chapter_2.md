@@ -47,6 +47,8 @@ Fake news is supported or opposed through a network of references: websites that
 
 **Network of cross-references between the pages mentioning the “Pope Endorses Trump” story.** In the image the nodes represent the different pages on which the fake story appears. The comparison of the colour of the nodes (which indicates whether the page affirm or debunks the story), their size (which indicates the number of citations received by the page) and their number reveal the great visibility of the debunking and neutral pages compared to websites that spread the fake story as authentic.
 
+![Visualization 2.1.b](../output/images/2-1-b.jpg)
+
 ### Step 2.1c: Visualise the fake news occurrences over time
 
 The network extracted in the previous step can help you understand not only who cited whom, but also how and in which direction your fake news story travelled. To reveal the circulation use the dates that you collected in the first step of this recipe.
@@ -56,6 +58,8 @@ The network extracted in the previous step can help you understand not only who 
 #### Visualisation 2.1c:  What is the life of the “Pope Endorses Trump” story according to pages in search engine results?
 
 **Chronological network of the cross-references between the pages mentioning the “Pope Endorses Trump” story.** In this image, the colour of the nodes indicates whether the page affirms or debunks the story and the type of line indicates how different pages cite each other. The high presence of dotted lines going from green to orange or gray nodes shows how debunking initiatives tend to mention original sources but not link to them. This technique is used to flag fake websites without increasing their online visibility by explicitly linking to them.
+
+![Visualization 2.1.c](../output/images/2-1-c.jpg)
 
 ### SERVING SUGGESTIONS
 
@@ -82,6 +86,8 @@ Identify (or compile) a list of all the possible Web sources in which you think 
 
 **Network analysis of the media sources active in French public debate.** The image shows the news sources listed by the Décodex project by Le Monde and the hyperlinks connecting them. A force-directed layout has been applied to reveal the main clusters of websites and their respective associations and positions.
 
+![Visualization 2.2.a](../output/images/2-2-a.jpg)
+
 ### Step 2.2b: Highlight the occurrences of your story on the base map
 
 In this step we will explore how fake news stories are associated with different sources. This is interesting, as while a fake news story might – for example – start out its life as a piece of satire, as it travels it can become more prominently associated with non-satirical sources. Here we will identify which of the sources in the base map of the French media system are mentioned in the pages in which your fake news story occurs.
@@ -95,6 +101,8 @@ In this step we will explore how fake news stories are associated with different
 
 **Projection of the fake news occurrences on the network of media sources.** In this image, the occurrences of the fake news story are positioned on the base map displayed by the previous network according to the sources they cite. The tendency to refer to social media is visible as well as the relevance of *Russia Today* and *Sputnik International* in this particular story.
 
+![Visualization 2.2.b](../output/images/2-2-b.jpg)
+
 ### Step 2.2c: Visualise the spread of your fake story on the base map
 
 In this step, you will reveal how the reference patterns identified in the previous step evolve over time.
@@ -107,9 +115,13 @@ In this step, you will reveal how the reference patterns identified in the previ
 
 **Temporal evolution of the fake news story in the whole observed period.** In this image, the occurrences of the fake news story are divided in slices of four weeks (with an overlap of two weeks) and represented as a density heat map rather than as individual points. Though mentions of the story have been present for more than one year, its circulation appears to spike in February 2017, when a new strand of the fake story is published by the Russian website Sputnik International.
 
+![Visualization 2.2.c](../output/images/2-2-c.jpg)
+
 #### Visualization 2.2d: How many occurrences of the fake news story are published in February 2017 and what sources do they cite?
 
 **Temporal evolution of the fake news story in February 2017.** This image represents a ‘temporal zoom’ of the previous one. Here the occurrences of the fake news story are broken up into slices of 4 days (with an overlap of two days).
+
+![Visualization 2.2.d](../output/images/2-2-d.jpg)
 
 ### SERVING SUGGESTIONS
 

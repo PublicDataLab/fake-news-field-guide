@@ -87,9 +87,13 @@ To illustrate this recipe we use a sub-selection of 46 pages from the corpus ide
 
 **Image montage of memetic activity on selected Facebook pages around six key events in the 2016 US presidential campaign.** Memetic activity around different events may be compared in terms of scale and framing.
 
+![Visualization 4.2.a](../output/images/4-2-a.jpg)
+
 #### Visualization 4.2.b: How do memetic reactions around a single political events compare across Facebook pages? 
 
 **Image montage of a particular interpretative frame prominent in memetic activity around Trump’s taped comments about women across a set of pro-Trump Facebook pages.** The visualisation shows how a number of pages pointed to a particular image of Bill Clinton confronted with alleged victims of sexual harassment from his own past in response to the “groping tape” event. Notably, this interpretative frame appears consistent with the frame proposed by *Breitbart*.
+
+![Visualization 4.2.b](../output/images/4-2-b.jpg)
 
 ### SERVING SUGGESTIONS
 
@@ -131,6 +135,8 @@ To examine the issues that trigger memetic activity you may analyse the text ext
 
 **Network of nouns and adjectives co-occurring in images posted in 2016 on *Breitbart*’s Facebook page (two words are connected if they are present in the same image).** Colors identify clusters according to Louvain modularity. The two most prominent clusters are centered around Donald Trump (top, blue) and Hillary Clinton (bottom, yellow). One may examine the terms present in the Hillary Clinton cluster and in clusters in its proximity in terms of framing and agenda setting.
 
+![Visualization 4.3.b](../output/images/4-3-b.jpg)
+
 ### Step 4.3c: Examine visual styles of memes with image analysis
 
 To explore the visual styles deployed in a meme repository, the outputs of the image analysis software described in step 4.2.a may be used, namely the labels or tags generated to describe the entities and attributes detected in our image corpus. We illustrate this analysis on the *God Emperor Trump* page. 
@@ -143,6 +149,8 @@ To explore the visual styles deployed in a meme repository, the outputs of the i
 #### Visualization 4.3.c: Can we detect distinct visual styles within a meme repository? 
 
 **Network of images  in the *God Emperor Trump* corpus, linked by similarity of meme profile, according to shared tags.** The fuzzy boundaries between clusters show that memes share a similarity of composition, which may be associated with the memetic logic. Some genres or styles of memetic activity may be detected. A screenshot-based meme cluster may be noticed as well as a comics and cartoons cluster, including Pepe the Frog.
+
+![Visualization 4.3.c](../output/images/4-3-c.jpg)
 
 ### SERVING SUGGESTIONS
 

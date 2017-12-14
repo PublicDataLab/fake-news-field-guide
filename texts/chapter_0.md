@@ -43,8 +43,6 @@ Released in December 2017.
 
 # Contents
 
-CONTENTS
-
 7	Introduction
 
 

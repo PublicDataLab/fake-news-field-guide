@@ -38,6 +38,8 @@ To identify who negatively mentions a political leader on Twitter start from ide
 
 **Visualisation of Dutch political leaders who are targets of positive and negative mentions on Twitter (from users who mention them more than 100 times in a one-month period).** Red circles represent users launching attacks and green circles represent users making favourable mentions. The size of the circle represents the total number of users mentioning a party leader. The asymmetry of the distribution of targets of troll-like behaviour across the political spectrum is notable as left-wing politicians are most often targeted by negative mentions.
 
+![Visualization 5.1.a](../output/images/5-1-a.jpg)
+
 ### SERVING SUGGESTIONS
 
 This recipe can be used to identify sources of personal attacks on Twitter and can be extended beyond the context of political trolling.
@@ -61,6 +63,8 @@ One way in which you can characterise the sources of troll-like activity is by e
 
 **Clustering of 24 accounts engaging in troll-like activity around the Dutch elections.** The profile information is clustered according to similarities. Three users have very similar profiles and are created in a short amount of time: this helps us to identify them as ‘sock-puppet’ account created for trolling activities. Other six promote the same anti-islam agenda, but without being fake accounts.
 
+![Visualization 5.2.a](../output/images/5-2-a.jpg)
+
 ### Step 5.2b: Characterise sources of trolling activity through their friends
 
 Another way in which sources of troll-like activity may be characterised is by examining who they follow on Twitter, also known as their friends.
@@ -72,7 +76,13 @@ Another way in which sources of troll-like activity may be characterised is by e
 
 > [1] See Twitter Developer Platform, API reference: GET friends/ids, 2017, at: https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/api-reference/get-friends-ids 
 
-> [2] See Twitter Developer Platform, API reference: GET users/lookup, 2017, at: https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/api-reference/get-users-lookup 
+> [2] See Twitter Developer Platform, API reference: GET users/lookup, 2017, at: https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/api-reference/get-users-lookup
+
+#### Visualization 5.2.b: How can we characterise sources of troll-like activity based on their shared friends?
+
+**Visualisation of shared friends or followees of 24 accounts engaging in trolling activity around the Dutch elections.** The density of connections in the network shows that accounts share multiple followees. Multiple accounts which may be described as right-leaning based on their profile information (description, picture and banner) are present at the core of the network thus confirming earlier findings pertaining to the right/left asymmetry of sources and targets of attacks.
+
+![Visualization 5.2.b](../output/images/5-2-b.jpg)
 
 ### SERVING SUGGESTIONS
 
@@ -95,6 +105,8 @@ To identify what issues are associated with troll-like activity, examine the has
 
 **`Bubble graph` of issues expressed through hashtags in tweets @mentioning candidates in the 2017 Dutch elections posted by the set of 24 accounts engaging in troll-like activity.** Issues are coloured by type, sized by frequency of occurrences and grouped according to the candidate mentioned in the tweet which contains them. Most tweets with hashtags mention the right-wing populist candidate Geert Wilders. Most prominent are issues related to PVV’s political message (“Nexit”, “StopIslam” and “BanIslam”) as well as those pertaining to expressions of Dutch patriotism. Generally speaking, we can conclude that right-wing politicians receive mainly support from “troll-like users,” while other politicians are the targets of attacks (as discussed in recipe 5.1).
 
+![Visualization 5.3.a](../output/images/5-3-a.jpg)
+
 ### Step 5.3b: Investigate the media sources shared by the accounts engaged in negative targeting
 
 To identify the content shared in tweets posted by the users engaged in troll-like activities, examine the URLs inserted in their tweets.
@@ -106,6 +118,8 @@ To identify the content shared in tweets posted by the users engaged in troll-li
 #### Visualization 5.3.b: What media sources are present in tweets @mentioning a political candidate?
 
 **Venn diagram of most resonant media sources in tweets @mentioning candidates in the 2017 Dutch elections posted by the set of 24 accounts engaging in trolling activity.** The most tweeted source is the Dutch alt-right blog *fenixx.org* followed by the anti-islam site *Jihad Watch* and the right-wing think tank *Gatestone Institute*.
+
+![Visualization 5.3.b](../output/images/5-3-b.jpg)
 
 #### Visualization 5.3.c: How is URL posting distributed across the users engaging in negative targeting?
 
