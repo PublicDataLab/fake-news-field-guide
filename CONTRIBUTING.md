@@ -16,7 +16,7 @@ Texts are in `.md` format, a popular markdown format commonly used on GitHub. Fo
 
 It is basically a text file with few special charachters that define the appaerence of text. If you want to learn more, visit this page: https://guides.github.com/features/mastering-markdown/
 
-You can modify it using any text editor, however we strongly reccomand to use [Typora](https://typora.io/) which allows you to see the results of your edits.
+You can modify it using any text editor, however we strongly recommend to use [Typora](https://typora.io/) which allows you to see the results of your edits.
 
 texts of the book are divided in six files:
 
