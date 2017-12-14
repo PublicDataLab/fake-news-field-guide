@@ -32,6 +32,8 @@ This analysis may be done by qualitatively examining the content of each article
 
 **Timeline of best performing fake news stories about the US elections on Facebook in 2016 and events they editorialise.** Successful fake news stories appear to exploit populist themes such as anti-establishment sentiment, nationalist and anti-immigration sentiment as well as perceived or projected weaknesses of political candidates such as misogyny and corruption. A number of events at the end of July, mid-October and early November are successful in setting the fake news “agenda”.
 
+![Visualization 1.1.a](https://github.com/mikima/fake-news-field-guide/raw/master/output/images/1-1-a.jpg)
+
 ### Step 1.1b: Identify the Facebook pages and groups that share these stories
 This may be done with a social media monitoring tool such as the browser extension of **`CrowdTangle`**. The number of followers per page or group as well as the number of *`interactions`* per posts should be recorded in a spreadsheet alongside the names of pages and groups that share fake news stories.
 * Please note that a fake news story may be reposted on a number of different websites. For this reason a methodological decision needs to be taken from the outset as to whether only the pages and groups that share the original URL of the story will be recorded or whether all pages and groups that share all versions of the fake news story will be collected.
