@@ -21,7 +21,7 @@ You can modify it using any text editor, however we strongly recommend to use [T
 Texts of the book are divided in six files:
 
 * **chapter-00** contains the inside cover text, introduction, and visual conventions;
-* from **chapter-01** to **chapter-05** are the file containing texts of realted chapters;
+* **chapter-01** to **chapter-05** are the files containing texts of related chapters;
 * **chapter-06** contains the conclusions, the term glossary, the tools glossary, the list of contributors and the acknowledgements.
 
 ### Conventions used in markdown
