@@ -1,6 +1,6 @@
 # Inside cover
 
-###A Field Guide to Fake News
+### A Field Guide to Fake News
 
 Compiled by **Liliana Bounegru, Jonathan Gray, Tommaso Venturini** and **Michele Mauri**
 
@@ -92,7 +92,7 @@ CHAPTER 5
 
 210	Contributors and acknowledgements
 
-# introduction
+# Introduction
 
 What is “fake news”? And what can be done about it? Depending on who you ask, fake news is said to represent a step-change in information warfare; an emerging form of cynical profiteering; an engine for energising “alt-right” and other digitally mediated grassroots political mobilisations around the world; a partisan battle cry for a new liberal “ministry of truth”; an unwanted byproduct of the online platforms which organise our digital societies; or a canary call signalling a collapse of consensus around established institutions and processes of knowledge production, heralding a new “post-truth” era in politics and public life.
 
