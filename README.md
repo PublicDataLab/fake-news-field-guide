@@ -16,14 +16,15 @@ The repository is structured in three main folders:
 * **Assets** contains all the images, such as visualizations, protocols maps, and so on. They are saved in `Adobe Illustrator CC 2017`, and they are not compatible with previous versions.
 * **Layout** contains all the InDesign files needed to build the book. They are saved in `InDesing CC 2017`, and are not compatible with previous versions. It also contains all the needed fonts.
 * **Texts** contains the texts for the five chapters of the book. They are named `Chapter_X` where X represent the number. `Chapter_0` contains cover page and the introduction, while `chapter_6` contains conclusions, glossaries and acknowledgements. Texts are in `.md` format, a popular markdown format. See below (in ***How to edit texts***) for markdown convention used in the text.
+* **Output** contains the latest build of the book in `.pdf` format, and the images for visualizations in `.jpg` format.
 
 # How to edit texts
 
 Texts are in `.md` format, a popular markdown format commonly used on GitHub. For example, this introduction is written using this format.
 
-It is basically a text file with few charachters that define the appaerence of text. If you want to learn more, visit this page: https://guides.github.com/features/mastering-markdown/
+It is basically a text file with few special charachters that define the appaerence of text. If you want to learn more, visit this page: https://guides.github.com/features/mastering-markdown/
 
-You can modify it using any text editor, however we strongly reccomand to use Typora (https://typora.io/) wich allows you to see the results of your edits.
+You can modify it using any text editor, however we strongly reccomand to use [Typora](https://typora.io/) which allows you to see the results of your edits.
 
 ## Conventions used in markdown
 

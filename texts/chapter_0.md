@@ -12,7 +12,7 @@ First Draft ([firstdraftnews.com](www.firstdraftnews.com)) is dedicated to impro
 
 © 2017 Public Data Lab. Amsterdam
 
-The guide is released under the Creative Commons Attribution License (creativecommons.org/licenses/by/3.0/). We strongly encourage you to freely share, adapt and draw on this work – with only the condition that you give credit, as per the terms of the license. 
+The guide is released under the Creative Commons Attribution License ([creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)). We strongly encourage you to freely share, adapt and draw on this work – with only the condition that you give credit, as per the terms of the license. 
 
 If you reproduce or draw on material from this guide, we’d be grateful if you could credit and link back as per the following statement:
 
@@ -23,21 +23,22 @@ The copyright for the research that this guide draws upon remains with its respe
 
 This project would not have been possible without the contributions of researchers from the following institutions:
 
-* Centre for Journalism Studies, University of Ghent (NL)
-* Citizen Data Lab, Amsterdam University of Applied Sciences (NL)
-* Density Design, Politecnico di Milano (IT)
-* Digital Methods Initiative, Media Studies, University of Amsterdam (NL)
-* Govcom.org Foundation, Amsterdam
-* Institut National de Recherche en Informatique et en Automatique (INRIA) (FR)
-* Institute for Policy Research, University of Bath (UK)
-* King’s College London (UK)
-* Laboratoire d’Étude des Sciences et des Techniques (STS-Lab), Université de Lausanne (CH)
-* Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS), Université Paris-Est Marne-la-Vallée (FR)
-* médialab, Sciences Po, Paris (FR)
-* Techno-Anthropology Lab, Aalborg University Copenhagen (DK)
-* University of Siegen (DE)
+* **Centre for Journalism Studies,** University of Ghent (NL)
+* **Citizen Data Lab,** Amsterdam University of Applied Sciences (NL)
+* **DensityDesign Lab,** Politecnico di Milano (IT)
+* **Digital Methods Initiative,** Media Studies, University of Amsterdam (NL)
+* **Govcom.org Foundation,** Amsterdam
+* **Institut National de Recherche en Informatique et en Automatique (INRIA)** (FR)
+* **Institute for Policy Research,** University of Bath (UK)
+* **King’s College London** (UK)
+* **Laboratoire d’Étude des Sciences et des Techniques (STS-Lab),** Université de Lausanne (CH)
+* **Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS),** Université Paris-Est Marne-la-Vallée (FR)
+* **Médialab,** Sciences Po, Paris (FR)
+* **Techno-Anthropology Lab,** Aalborg University Copenhagen (DK)
+* **University of Siegen** (DE)
 
 Published by Public Data Lab.
+
 Released in December 2017.
 
 # Contents
