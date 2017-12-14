@@ -49,7 +49,7 @@ Visualizations are named with the following code:
 
 We don't have a standard code for layers, but in all the visualizations you should keep the guides in the last layer, and the legend in the first one. All the parts related to visualizations (labels, axes, glyphs, etc) can be on a single layer or on multiple one.
 
-Visualizations containing an high number of images (for example visualization 4.3.c) come usually in two files:
+Visualizations containing a high number of images (for example visualization 4.3.c) come usually in two files:
 
 * the first one named `X_X_X_working_version.ai`. This file contains all the images as linked files. It must be saved **without** the "Create PDF Compatible Files" option enabled. This helps us to avoid huge files.
 * A second one with the standard name (e.g. 4-2-a.ai). This is the file that actually is imported in the InDesign book (see next section, Edit Layout). In this file **all the images are flattened in a single image** in order to make a smaller file. In this case, file must be saved with the "Create PDF Compatible Files" option **enabled**.
