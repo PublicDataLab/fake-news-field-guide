@@ -66,5 +66,5 @@ Before opening the file, check that all the needed fonts are installed on your c
 
 When you open the InDesign files, all the images will be automatically updated.
 
-Texts, however, won't be automatically updated. While we are working on a more convenient solution, at the moment you have to updated them manually (copying and pasting from the `.md` files).
+Texts, however, won't be automatically updated. While we are working on a more convenient solution, at the moment you have to update them manually (copying and pasting from the `.md` files).
 
