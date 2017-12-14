@@ -32,7 +32,7 @@ This analysis may be done by qualitatively examining the content of each article
 
 **Timeline of best performing fake news stories about the US elections on Facebook in 2016 and events they editorialise.** Successful fake news stories appear to exploit populist themes such as anti-establishment sentiment, nationalist and anti-immigration sentiment as well as perceived or projected weaknesses of political candidates such as misogyny and corruption. A number of events at the end of July, mid-October and early November are successful in setting the fake news “agenda”.
 
-![Visualization 1.1.a](https://github.com/mikima/fake-news-field-guide/raw/master/output/images/1-1-a.jpg)
+![Visualization 1.1.a](../output/images/1-1-a.jpg)
 
 ### Step 1.1b: Identify the Facebook pages and groups that share these stories
 This may be done with a social media monitoring tool such as the browser extension of **`CrowdTangle`**. The number of followers per page or group as well as the number of *`interactions`* per posts should be recorded in a spreadsheet alongside the names of pages and groups that share fake news stories.
@@ -47,6 +47,8 @@ This may be done with a social media monitoring tool such as the browser extensi
 
 **Public Facebook pages and groups that share fake news items, sized according to the number of items they share and coloured according to their number of followers.** Each page can share the same item more than once. The pages and groups that share the highest number of stories are primarily pro-Trump supporters and anti-Hillary groups. The page that generates the highest number of interactions with fake news stories is the fan page dedicated to republican TV commentator, Jeanine Pirro.
 
+![Visualization 1.1.b](../output/images/1-1-b.jpg)
+
 ### Step 1.1c: Identify whether Facebook publics have preferred story themes
 
 To explore whether particular story themes assemble publics and to qualitatively profile those publics based on the stories that animate them you may conduct a network analysis of public Facebook pages and groups connected by the stories which they share. 
@@ -59,7 +61,9 @@ To explore whether particular story themes assemble publics and to qualitatively
 
 #### Visualization 1.1c: Do Facebook publics have preferred story themes?
 
-**Network of public Facebook pages and groups connected by the fake news stories which they share.** Notable is the core of the network which consists of a series of pages and groups associated with Trump supporters which are animated by anti-Hillary stories. 
+**Network of public Facebook pages and groups connected by the fake news stories which they share.** Notable is the core of the network which consists of a series of pages and groups associated with Trump supporters which are animated by anti-Hillary stories.
+
+![Visualization 1.1.c](../output/images/1-1-c.jpg)
 
 ### Step 1.1d: Profile the publics animated by fake news
 
@@ -72,6 +76,8 @@ This may be done by conducting a qualitative analysis of all public Facebook pag
 #### Visualization 1.1d: What kinds of publics are energised by fake news?
 
 **Types of Facebook publics animated by fake news, according to a manual classification of pages that share fake news items.** Notable are grassroots activists for a variety of issues, political candidate loyalists as well as entertainers.
+
+![Visualization 1.1.d](../output/images/1-1-d.jpg)
 
 ### SERVING SUGGESTIONS
 
@@ -99,7 +105,9 @@ Public Facebook pages and groups that share a fake news story may be detected th
 
 **Trajectory of "Rage Against the Machine to Reunite and Release Anti Donald Trump Album" story on Facebook pages and groups retrieved with CrowdTangle.** The story circulates best between March and June 2016 as satire amongst English language music and entertainment groups. It is revived in November after the US elections, when it is also picked up by Italian music and political pages.
 
-#### Step 1.2b: Identify Facebook pages and groups that share all instances of a fake news story
+![Visualization 1.2.a](../output/images/1-2-a.jpg)
+
+#### Step 1.2b: Identify Facebook pages and groups that share all instances of a fake news story
 
 As fake news stories may be republished by a number of sources, the previous analysis may be enriched by tracing the circulation not only of the original URL on which the chosen story is posted but all instances of story republication across a number of different sites. 
 
@@ -114,6 +122,8 @@ As fake news stories may be republished by a number of sources, the previous ana
 #### Visualization 1.2b: How does the story "Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America" and its debunked versions travel on Facebook?
 
 **Timeline of "Trump Offering Free One-Way Tickets to Africa & Mexico for Those Who Wanna Leave America” story and its sites of publication on the web and Facebook.** The story is republished without critical context on multiple *`clickbait`* sites in the week following its original publication. This gives the story multiple lives on Facebook. Its sharing on a fake news site animates political publics while its sharing on clickbait sites sees the story being recycled as clickbait by viral pages. The publics sparked into being by the fake news story and the debunked version thereof do not overlap.
+
+![Visualization 1.2.b](../output/images/1-2-b.jpg)
 
 ### SERVING SUGGESTIONS
 
@@ -135,7 +145,7 @@ To identify prominent debunking web pages for a given fake news story you may us
 * You may use the search engine ranking as an indication of salience of correction and select the highest ranked URLs corresponding to a corrected version of the fake news story in question. 
 * The result of this step is a list of URLs containing the most highly ranked debunking web pages per fake news story.
 
-### Step 1.3b: Map the overlap between the publics of fake news stories and web pages which aim to debunk them 
+### Step 1.3b: Map the overlap between the publics of fake news stories and web pages which aim to debunk them
 
 Public Facebook pages and groups that prominently share both fake news stories as well as web pages which aim to debunk them may be detected through a social media monitoring tool such as **`CrowdTangle`**’s browser extension. 
 
@@ -146,6 +156,8 @@ Public Facebook pages and groups that prominently share both fake news stories a
 
 **Fake news pages and debunking web pages have different publics on Facebook.** Only six of the public pages that share fake news stories have acknowledged web pages which aim to debunk them in our CrowdTangle dataset. While Google looks to prioritise debunking web pages, on Facebook it is fake news stories that circulate better. While both progressive and conservative pages share fake news stories it is primarily progressive Facebook pages and those pertaining to journalists and fact-checking initiatives that share web pages which aim to debunk fake news stories.
 
-### SERVING SUGGESTIONS
+![Visualization 1.3.a](../output/images/1-3-a.jpg)
+
+### SERVING SUGGESTIONS
 
 This recipe may be used as one way to assess the impact of attempts to debunk fake news by examining whether debunking responses to fake news are acknowledged on the platform that generates most engagement with fake news, Facebook, and by the particular publics which share and engage with fake news.
