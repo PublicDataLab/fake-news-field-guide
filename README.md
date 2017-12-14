@@ -1,5 +1,5 @@
 # A Field Guide to "Fake News" and Other Information Disorders
-This repository contains all the files and documentation necessary to reuse, remix and translate this field guide. All the contents are released with the CC-BY license ([see below](#License)).
+This repository contains all the files and documentation necessary to reuse, remix and translate this field guide. All the contents are released with the CC-BY license ([see below](#license)).
 
 If you just want to download the PDF version of the guide, please visit the official website:
 
