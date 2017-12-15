@@ -28,4 +28,4 @@ The content of the guide is released under the Creative Commons Attribution Lice
 
 If you reproduce or draw on material from this guide, we’d be grateful if you could credit and link back as per the following statement:
 
-> This article draws on A Field Guide to Fake News, a collaboration of the Public Data Lab and First Draft. For further details see: http://fakenews.publicdatalab.org
+> This article draws on *A Field Guide to "Fake News" and Other Information Disorders*, a collaboration of the Public Data Lab and First Draft. For further details see: http://fakenews.publicdatalab.org
