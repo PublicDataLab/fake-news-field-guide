@@ -1,5 +1,5 @@
 # A Field Guide to "Fake News" and Other Information Disorders
-This repository contains all the files and documentation necessary to reuse, remix and translate this field guide. All the contents are released with the CC-BY license ([see below](#license)).
+This repository contains all the files and documentation necessary to reuse, remix and translate this field guide. All of the material is released with the CC-BY license ([see below](#license)).
 
 If you just want to download the PDF version of the guide, please visit the official website:
 
@@ -10,7 +10,7 @@ http://fakenews.publicdatalab.org/
 The repository is structured in three main folders:
 
 * **Assets** contains all the images, such as visualizations, protocols maps, and so on. They are saved in `Adobe Illustrator CC 2017`, and they are not compatible with previous versions.
-* **Layout** contains all the InDesign files needed to build the book. They are saved in `InDesing CC 2017`, and are not compatible with previous versions. It also contains all the needed fonts.
+* **Layout** contains all the InDesign files needed to build the book. They are saved in `InDesign CC 2017`, and are not compatible with previous versions. It also contains all the needed fonts.
 * **Texts** contains the texts for the five chapters of the book. They are named `Chapter_X` where X represent the number. `Chapter_0` contains cover page and the introduction, while `chapter_6` contains conclusions, glossaries and acknowledgements. Texts are in `.md` format, a popular markdown format. See below (in ***How to edit texts***) for markdown convention used in the text.
 * **Output** contains the latest build of the book in `.pdf` format, and the images for visualizations in `.jpg` format.
 
