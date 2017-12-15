@@ -1,6 +1,6 @@
 # Inside cover
 
-### A Field Guide to Fake News
+### A Field Guide to "Fake News" and Other Information Disorders 
 
 Compiled by **Liliana Bounegru, Jonathan Gray, Tommaso Venturini** and **Michele Mauri**
 
@@ -16,7 +16,7 @@ The guide is released under the Creative Commons Attribution License ([creativec
 
 If you reproduce or draw on material from this guide, we’d be grateful if you could credit and link back as per the following statement:
 
-“This article draws on A Field Guide to Fake News, a collaboration of the Public Data Lab and First Draft. For further details see: http://fakenews.publicdatalab.org”
+“This article draws on *A Field Guide to "Fake News" and Other Information Disorders*, a collaboration of the Public Data Lab and First Draft. For further details see: http://fakenews.publicdatalab.org”
 
 The copyright for the research that this guide draws upon remains with its respective contributors.
 
