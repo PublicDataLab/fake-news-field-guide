@@ -1,4 +1,4 @@
-# Making platforms public? Collective inquiry, imagination and intervention around digital infrastructures
+# Conclusion
 
 Fake news, it can safely be said, is not a neglected issue. Every day it seems as though a new newspaper article, blog post, research report or project is released on the subject, and more and more academic articles are produced to reconnect public debates to scholarly literature. Over the course of this project we have been in touch with media organisations, journalists, civil society groups, public institutions, companies, researchers and students from around the world eager to understand, investigate, address and study to this issue.
 
