@@ -74,6 +74,8 @@ This recipe enables a scaling up of the approach presented in the previous recip
 * A web archive (we used **`Radarly`** by Linkfluence). 
 * A list of all the possible web sources in which your chosen fake news story may have appeared (we used the list curated by **`Le Monde Décodex`**).
 
+To illustrate this recipe, we focus on a false story that circulated during the 2017 French presidential election and referred to the presumed homosexuality of Emmanuel Macron.
+
 ### Step 2.2a: Define a base map of news providers
 
 Identify (or compile) a list of all the possible Web sources in which you think your fake news item might have appeared (try to be as exhaustive as possible). You can use one of the many lists of fake news websites maintained by debunking initiatives and combine it with a list of mainstream media outlets.
