@@ -43,46 +43,63 @@ Released in December 2017.
 
 # Contents
 
-7	Introduction
+6	Introduction
 
 
-15	Conventions used in the book
+14	Conventions used in the book
 
+**CHAPTER 1**
 
-CHAPTER 1
 17	MAPPING FAKE NEWS HOTSPOTS ON FACEBOOK
+
 20	1. What publics does fake news animate on Facebook?
+
 40	2. How may the trajectory of a fake news story be traced on Facebook?
+
 52	3. Do fact-checking initiatives reach the publics of fake news on Facebook?
 
+**CHAPTER 2**
 
-CHAPTER 2
 61	TRACING THE CIRCULATION OF FAKE NEWS ON THE WEB
+
 64	1. Where do fake news originate? By what sites are they first retransmitted?
+
 78	2. Which are the most visible sources related to a fake story? When and by whom are they mentioned?
 
+**CHAPTER 3**
 
-CHAPTER 3
 95	USING TRACKER SIGNATURES TO MAP THE TECHNO-COMMERCIAL UNDERPINNINGS OF FAKE NEWS SITES
+
 97	1. Do fake news sites use different kinds of trackers from mainstream media sites?
+
 103	2. How can fake news and mainstream media sites be profiled based on their tracker usage?
+
 109	3. How do tracker ecologies on fake news sites change over time?
+
 115	4. Which other websites share the same tracker IDs as fake news sites?
+
 121	5. Do trackers associated with hyper-partisan and misleading information sites vary across language spheres?
 
+**CHAPTER 4**
 
-CHAPTER 4
 127 STUDYING POLITICAL MEMES ON FACEBOOK
+
 130	1. How can meme spaces on Facebook be traced?
+
 139	2. How do memes frame political and media events?
+
 148	3. How may the content of memes be studied?
 
+**CHAPTER 5**
 
-CHAPTER 5
 161	MAPPING TROLL-LIKE PRACTICES - ON TWITTER
+
 165	1. How may we detect Twitter accounts which negatively target political representatives?
+
 172	2. How may we characterise the sources of troll-like activity?
+
 184	3. How may troll-like practices be characterised?
+
 
 
 199	Conclusion
