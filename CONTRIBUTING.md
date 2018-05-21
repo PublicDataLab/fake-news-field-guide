@@ -29,7 +29,7 @@ The book is composed by three main parts:
 
 
 * **Visualizations,** in Adobe Illustrator CC 2017 format;
-* **Layout,** combining texts and visualization in Adobe InDesign CC 2017 format.
+* **Layout,** combining texts and visualization in Adobe InDesign CC 2018 format.
 
 The three parts can be modified in different way.
 
