@@ -1,0 +1,353 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-LightItalic
+FamilyName:HK Grotesk
+StyleName:Light Italic
+MenuName:HK Grotesk Light Italic
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:HK Grotesk Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65400
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk Light Italic
+NameArray:0,Win,1,HK Grotesk Light Italic
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+MenuName:FontAwesome
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FontAwesome
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/FontAwesome.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:134808
+FileModTime:576404710
+NameArray:0,Mac,4,FontAwesome
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Italic
+FamilyName:HK Grotesk
+StyleName:Italic
+MenuName:HK Grotesk
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:HK Grotesk Italic
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67916
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk Italic
+NameArray:0,Win,1,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-SemiBoldItalic
+FamilyName:HK Grotesk
+StyleName:SemiBold Italic
+MenuName:HK Grotesk SemiBold Italic
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:HK Grotesk SemiBold Italic
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-SemiBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68028
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk SemiBold Italic
+NameArray:0,Win,1,HK Grotesk SemiBold Italic
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CrimsonText-Italic
+FamilyName:Crimson Text
+StyleName:Italic
+MenuName:Crimson Text
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Crimson Text Italic
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/Crimson Text italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:99880
+FileModTime:576404710
+NameArray:0,Mac,4,Crimson Text Italic
+NameArray:0,Win,1,Crimson Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:576404710
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Light
+FamilyName:HK Grotesk
+StyleName:Light
+MenuName:HK Grotesk Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:HK Grotesk Light
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64576
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk Light
+NameArray:0,Win,1,HK Grotesk Light
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CrimsonText-Roman
+FamilyName:Crimson Text
+StyleName:Roman
+MenuName:Crimson Text
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Crimson Text
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/Crimson Text regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:189604
+FileModTime:576404710
+NameArray:0,Mac,4,Crimson Text
+NameArray:0,Win,1,Crimson Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-BoldItalic
+FamilyName:HK Grotesk
+StyleName:Bold Italic
+MenuName:HK Grotesk
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:HK Grotesk Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64404
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk Bold Italic
+NameArray:0,Win,1,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CrimsonText-Bold
+FamilyName:Crimson Text
+StyleName:Bold
+MenuName:Crimson Text
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Crimson Text Bold
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/Crimson Text 700.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93848
+FileModTime:576404710
+NameArray:0,Mac,4,Crimson Text Bold
+NameArray:0,Win,1,Crimson Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Regular
+FamilyName:HK Grotesk
+StyleName:Regular
+MenuName:HK Grotesk
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:HK Grotesk Regular
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67652
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk Regular
+NameArray:0,Win,1,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Medium
+FamilyName:HK Grotesk
+StyleName:Medium
+MenuName:HK Grotesk Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:HK Grotesk Medium
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68216
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk Medium
+NameArray:0,Win,1,HK Grotesk Medium
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-Bold
+FamilyName:HK Grotesk
+StyleName:Bold
+MenuName:HK Grotesk
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:HK Grotesk Bold
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64164
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk Bold
+NameArray:0,Win,1,HK Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HKGrotesk-SemiBold
+FamilyName:HK Grotesk
+StyleName:SemiBold
+MenuName:HK Grotesk SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:HK Grotesk SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/mariadelosabrionesrojas/Documents/GitHub/fake-news-field-guide/layout/Document fonts/HKGrotesk-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68096
+FileModTime:576404710
+NameArray:0,Mac,4,HK Grotesk SemiBold
+NameArray:0,Win,1,HK Grotesk SemiBold
+NameArray:0,Win,16,HK Grotesk
+%EndFont
+
