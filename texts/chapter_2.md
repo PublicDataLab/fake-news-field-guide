@@ -96,7 +96,7 @@ In this step we will explore how fake news stories are associated with different
 
 * Create a query that identifies the fake news story that you want to trace. Use keywords specifically associated with your story and the stop-words to exclude "false positives".
 * Identify the occurrences of your story, running your query on the archive that you have chosen to use. For each of the results, collect the full text and the date of publication.
-* Detect, in the occurrences of the story, mentions of the sources of your base map. Search for for the URLs as well as for the names of your sources (e.g. sputniknews.com, Sputnik). In our example we used a custom script for **`CSV Rinse Repeat`**. 
+* Detect, in the occurrences of the story, mentions of the sources of your base map. Search for the URLs as well as for the names of your sources (e.g. sputniknews.com, Sputnik). In our example we used a custom script for **`CSV Rinse Repeat`**. 
 * Project the occurrences of your story onto your base map, by connecting each of them to the sources that they mention. While keeping the source-nodes fixed, apply a force directed spatialisation algorithm (you can do this using **`Gephi`**) to move the nodes representing the fake story occurrences closer to clusters of the base map that they cite the most.
 
 #### Visualisation 2.2b: Which are the sources cited in the occurrences of the fake news story?
